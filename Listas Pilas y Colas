@@ -1,0 +1,36 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage{default}
+\usepackage{multicol}
+\usetheme{Warsaw}
+\usecolortheme{seahorse}
+\useoutertheme{shadow}
+\useinnertheme{rectangles}
+
+\title[Fibonacci Heap]{Listas Pilas y Colas}
+\author[ALMA\and *Alexis\and Luis \and Margarita \and Ademir*]{{Bernal Chauayo, Luis Antonio}\\{Lacuaña Apaza, Margarita}\\{Mendoza Villarroel, Alexis}\\{Villena Zevallos, Ademir}}
+\institute{{Ciencia de la Computación}
+\\{Universidad Nacional de San Agustin}}
+\date{21 de Octubre del 2016 :D}
+
+\begin{document}
+
+\begin{frame}[plain]
+    \titlepage
+ \end{frame}
+  
+ \begin{frame}
+  \frametitle{Índice}
+  \begin{multicols}{2}
+  \tableofcontents
+  \end{multicols} 
+\end{frame}
+
+
+
+
+
+
+\end{document}
+
