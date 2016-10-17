@@ -1,1 +1,7 @@
 \beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Pilas}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Definicion}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Push}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Pop}{5}{0}{1}
+\beamer@subsectionintoc {1}{4}{Push - Lista}{6}{0}{1}
+\beamer@subsectionintoc {1}{5}{Pop - Lista}{10}{0}{1}

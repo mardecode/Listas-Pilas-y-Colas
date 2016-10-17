@@ -3,7 +3,6 @@
 \usepackage[utf8]{inputenc}
 \usepackage{default}
 \usepackage{multicol}
-
 \usetheme{Warsaw}
 \usecolortheme{seahorse}
 \useoutertheme{shadow}
@@ -56,17 +55,17 @@
 \begin{frame}
     \frametitle{Push}
     
-    \begin{columns}[b]
+    \begin{columns}
     \column{0.5\textwidth}
     \begin{figure}
-    \includegraphics[width =0.9 \textwidth]{images/push1}
     \caption{Inserción de un elemento}
+    \includegraphics[width =0.9 \textwidth]{images/push1}
     \end{figure}
    
     \column{0.5\textwidth}
     \begin{figure}
-    \includegraphics[width =0.65 \textwidth]{images/push2}
     \caption{Pila despues de la inserción}
+    \includegraphics[width =0.65 \textwidth]{images/push2}
     \end{figure}
    \end{columns}
     
@@ -74,88 +73,24 @@
 
 
 \subsection{Pop}
+
 \begin{frame}
     \frametitle{Pop}
     
-    \begin{columns}[b]
+    \begin{columns}
     \column{0.5\textwidth}
     \begin{figure}
-    \includegraphics[width =0.8 \textwidth]{images/pop1}
     \caption{Eliminación de un elemento}
+    \includegraphics[width =0.8 \textwidth]{images/pop1}
     \end{figure}
    
     \column{0.5\textwidth}
-    \begin{figure}
-    \includegraphics[width =0.8 \textwidth]{images/pop2}
+    \begin{figure}[t]
     \caption{Pila despues de eliminar un elemento}
+    \includegraphics[width =0.8 \textwidth]{images/pop2}
     \end{figure}
    \end{columns}
     
-\end{frame}
-
-
-\subsection{Push - Lista}
-\begin{frame}
-    \frametitle{Push - Lista}
-    
-    \begin{figure}
-    \includegraphics[width =1 \textwidth]{images/push01}
-    \caption{Crear nuevo Nodo}
-    \end{figure}
-       
-\end{frame}
-
-\begin{frame}
-    \frametitle{Push - Lista}
-    
-    \begin{figure}
-    \includegraphics[width =1 \textwidth]{images/push02}
-    \caption{Apuntar el Siguiente del Nuevo a la Cabeza de la Lista}
-    \end{figure}
-       
-\end{frame}
-
-\begin{frame}
-    \frametitle{Push - Lista}
-    
-    \begin{figure}
-    \includegraphics[width =1 \textwidth]{images/push03}
-    \caption{Apuntar la Cabeza al Nuevo}
-    \end{figure}
-       
-\end{frame}
-
-
-\begin{frame}
-    \frametitle{Push - Lista}
-    
-    \begin{figure}
-    \includegraphics[width =1 \textwidth]{images/push04}
-    \caption{Resultado}
-    \end{figure}
-       
-\end{frame}
-
-
-\subsection{Pop - Lista}
-\begin{frame}
-    \frametitle{Pop - Lista}
-    
-    \begin{figure}
-    \includegraphics[width =1 \textwidth]{images/pop02}
-    \caption{Apuntar la cabeza de la lista al siguiente de la cabeza}
-    \end{figure}
-       
-\end{frame}
-
-\begin{frame}
-    \frametitle{Pop - Lista}
-    
-    \begin{figure}
-    \includegraphics[width =1 \textwidth]{images/pop03}
-    \caption{Borrar el nodo y retornar el dato}
-    \end{figure}
-       
 \end{frame}
 
 
