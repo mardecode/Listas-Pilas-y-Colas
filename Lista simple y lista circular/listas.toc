@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.24pt}
+\beamer@endinputifotherversion {3.36pt}
 \beamer@sectionintoc {2}{Lista Simple}{3}{0}{1}
 \beamer@subsectionintoc {2}{1}{Definicion}{3}{0}{1}
 \beamer@subsectionintoc {2}{2}{Objetos}{4}{0}{1}
