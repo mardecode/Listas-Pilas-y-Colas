@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {2}{Lista Simple}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Definicion}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{Objetos}{4}{0}{1}
+\beamer@subsectionintoc {2}{3}{Insertar}{5}{0}{1}
+\beamer@subsectionintoc {2}{4}{Eliminar}{25}{0}{1}
+\beamer@sectionintoc {3}{Lista Circular}{35}{0}{2}
+\beamer@subsectionintoc {3}{1}{Definici\IeC {\'o}n}{35}{0}{2}

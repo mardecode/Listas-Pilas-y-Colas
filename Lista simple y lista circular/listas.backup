@@ -1,0 +1,283 @@
+\documentclass{beamer}
+\title{Listas}
+\author{Mendoza Villarroel Alexis Aldo}
+\date{19/10/16}
+\usepackage[utf8]{inputenc}
+\usepackage{default}
+\usetheme{Berlin}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\section*{Outline}
+\begin{frame}
+  \tableofcontents
+\end{frame}
+
+\section{Lista Simple Ordenada}
+
+\subsection{Definicion}
+\begin{frame}
+  - Una lista enlazada simple es una estructura de datos formada por nodos, en la que cada nodo apunta al siguiente. 
+  De este modo guardando una referencia a la cabeza de la lista podemos acceder a todos los elementos de la misma. 
+  \includegraphics[scale=0.15]{./Listas/lista_ordenada.png}
+  
+\end{frame}
+    
+\subsection{Objetos}
+\begin{frame}
+ \begin{itemize}
+  \item Nodo
+    \begin{center}
+      \includegraphics[scale=0.30]{./Listas/elemento_nodo.png}
+    
+      % elemento_nodo.png: 0x0 pixel, 300dpi, 0.00x0.00 cm, bb=
+    \end{center}
+   
+    
+  \item Lista
+    \begin{center}
+    \includegraphics[scale=0.35]{./Listas/elemento_cabeza.png}
+    % elemento_cabeza.png: 0x0 pixel, 300dpi, 0.00x0.00 cm, bb=
+    \end{center}  
+ 
+ \end{itemize}
+
+\end{frame}
+
+
+\subsection{Insertar}
+\begin{frame}
+  
+  Insercion cuando el puntero a la cabeza es 0
+        
+
+ \includegraphics[scale=0.2]{./Listas/lista_insertar_cabeza_1.png}
+ % insercion_cabeza.png: 0x0 pixel, 300dpi, 0.00x0.00 cm, bb=
+
+
+\end{frame}
+
+
+\begin{frame}
+  
+  1.- Creamos un nuevo nodo con el dato a insertar (3).
+        
+
+ \includegraphics[scale=0.2]{./Listas/lista_insertar_cabeza_2.png}
+ % insercion_cabeza.png: 0x0 pixel, 300dpi, 0.00x0.00 cm, bb=
+
+
+\end{frame}
+
+
+\begin{frame}
+  
+  2.- Hacemos que la cabeza apunte al nuevo nodo.  
+
+ \includegraphics[scale=0.2]{./Listas/lista_insertar_cabeza_3.png}
+
+
+\end{frame}
+
+
+
+\begin{frame}
+  Insercion cuando el puntero a la cabeza es diferente de  0 y el dato a insertar es mayor que el dato de la cabeza
+  
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso1_1.png}
+  
+\end{frame}
+
+\begin{frame}
+  1.-Creamos un nuevo nodo con el dato a insertar (9).
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso1_2.png}
+  
+\end{frame}
+
+\begin{frame}
+  2.-Ubicamos el nodo en el lugar donde se insertara.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso1_3.png}
+  
+\end{frame}
+
+\begin{frame}
+  3.-Insertamos el nodo.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso1_4.png}
+\end{frame}
+  
+  
+\begin{frame}
+  3.-Insertamos el nodo.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso1_5.png}  
+   
+  
+\end{frame}
+
+
+
+\begin{frame}
+  Insercion cuando el puntero a la cabeza es diferente de  0 y el dato a insertar es mayor que el dato de la cabeza
+  
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso2_1.png}
+  
+\end{frame}
+
+\begin{frame}
+  1.-Creamos un nuevo nodo con el dato a insertar (7).
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso2_2.png}
+  
+\end{frame}
+
+\begin{frame}
+  2.-Ubicamos el nodo en el lugar donde se insertara.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso2_3.png}
+  
+\end{frame}
+
+\begin{frame}
+  3.-Insertamos el nodo.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso2_4.png}  
+   
+  
+\end{frame}
+
+\begin{frame}
+  3.-Insertamos el nodo.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso2_5.png}  
+   
+  
+\end{frame}
+
+\begin{frame}
+  3.-Insertamos el nodo.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso2_6.png}  
+   
+  
+\end{frame}
+
+\begin{frame}
+  Insercion cuando el puntero a la cabeza es diferente de  0 y el dato a insertar es menor que el dato de la cabeza
+  
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso3_1.png}
+  
+\end{frame}
+
+\begin{frame}
+  1.-Creamos un nuevo nodo con el dato a insertar (1).
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso3_2.png}
+  
+\end{frame}
+
+\begin{frame}
+  2.-Ubicamos el nodo en el lugar donde se insertara.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso3_3.png}
+  
+\end{frame}
+
+\begin{frame}
+  3.-Insertamos el nodo.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso3_4.png}  
+   
+  
+\end{frame}
+
+\begin{frame}
+  3.-Insertamos el nodo.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso3_5.png}  
+   
+  
+\end{frame}
+
+\begin{frame}
+  3.-Insertamos el nodo.
+  \includegraphics[scale=0.15]{./Listas/lista_insertar_caso3_6.png}  
+   
+  
+\end{frame}
+
+
+\subsection{Eliminar}
+
+\begin{frame}
+  Eliminar 7
+  
+  \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso1_1.png}
+\end{frame}
+
+
+\begin{frame}
+  Dejamos un puntero temp en el nodo que vamos a eliminar.
+  
+  \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso1_2.png}
+\end{frame}
+
+\begin{frame}
+  El nodo que apuntaba al nodo que eliminaremos ahora apuntara al siguiente del nodo que eliminaremos.
+  
+  \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso1_3.png}
+\end{frame}
+
+\begin{frame}
+  Eliminamos a travez de temp al nodo.
+  
+  \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso1_4.png}
+\end{frame}
+
+\begin{frame}
+  Eliminamos a travez de temp al nodo.
+  
+  \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso1_5.png}
+\end{frame}
+
+
+\begin{frame}
+  Eliminar 1
+  
+  \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso2_1.png}
+\end{frame}
+
+
+\begin{frame}
+  Dejamos un puntero temp en el nodo que vamos a eliminar.
+  
+  \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso2_2.png}
+\end{frame}
+
+\begin{frame}
+  El nodo que apuntaba al nodo que eliminaremos ahora apuntara al siguiente del nodo que eliminaremos.
+  
+  \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso2_3.png}
+\end{frame}
+
+\begin{frame}
+  Eliminamos a travez de temp al nodo.
+  
+  \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso2_4.png}
+\end{frame}
+
+\begin{frame}
+  Eliminamos a travez de temp al nodo.
+  
+  \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso2_5.png}
+\end{frame}
+
+\section{Lista Circular}
+
+\subsection{Definición}
+
+\begin{frame}
+  \begin{itemiza}
+  
+  \item Una Lista Circular es una lista simple en la que el ultimo nodo apunta al primer nodo.
+  \item 
+  \end{itemize}
+\end{frame}
+
+
+\end{document}
+
+
