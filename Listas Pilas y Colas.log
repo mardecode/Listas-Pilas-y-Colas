@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.2)  21 OCT 2016 06:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.2)  21 OCT 2016 07:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1061,6 +1061,11 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \colbreak@box=\box81
 \mc@col@check@num=\count166
 )
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeWarsaw.
 sty
 Package: beamerthemeWarsaw 2010/06/17  (rcs-revision d02a7cf4d8ae)
@@ -1284,7 +1289,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 [2
 
-] <./Listas/lista_ordenada.png, id=193, 2050.66125pt x 987.69pt>
+] <./Listas/lista_ordenada.png, id=200, 2050.66125pt x 987.69pt>
 File: ./Listas/lista_ordenada.png Graphic file (type png)
 
 <use ./Listas/lista_ordenada.png>
@@ -1302,14 +1307,14 @@ Overfull \vbox (3.9628pt too high) detected at line 41
 [3
 
  <./Listas/lista_ordenada.png>]
-<./Listas/elemento_nodo.png, id=230, 344.28625pt x 224.84pt>
+<./Listas/elemento_nodo.png, id=238, 344.28625pt x 224.84pt>
 File: ./Listas/elemento_nodo.png Graphic file (type png)
 
 <use ./Listas/elemento_nodo.png>
 Package pdftex.def Info: ./Listas/elemento_nodo.png used on input line 62.
 (pdftex.def)             Requested size: 103.28667pt x 67.45251pt.
 
-<./Listas/elemento_cabeza.png, id=231, 270.00874pt x 153.57375pt>
+<./Listas/elemento_cabeza.png, id=239, 270.00874pt x 153.57375pt>
 File: ./Listas/elemento_cabeza.png Graphic file (type png)
 
 <use ./Listas/elemento_cabeza.png>
@@ -1318,7 +1323,7 @@ Package pdftex.def Info: ./Listas/elemento_cabeza.png used on input line 62.
  [4
 
  <./Listas/elemento_nodo.png> <./Listas/elemento_cabeza.png>]
-<./Listas/lista_insertar_cabeza_1.png, id=267, 1258.7025pt x 576.1525pt>
+<./Listas/lista_insertar_cabeza_1.png, id=276, 1258.7025pt x 576.1525pt>
 File: ./Listas/lista_insertar_cabeza_1.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_cabeza_1.png>
@@ -1328,7 +1333,7 @@ e 75.
  [5
 
  <./Listas/lista_insertar_cabeza_1.png>]
-<./Listas/lista_insertar_cabeza_2.png, id=305, 1258.7025pt x 576.1525pt>
+<./Listas/lista_insertar_cabeza_2.png, id=315, 1258.7025pt x 576.1525pt>
 File: ./Listas/lista_insertar_cabeza_2.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_cabeza_2.png>
@@ -1338,7 +1343,7 @@ e 87.
  [6
 
  <./Listas/lista_insertar_cabeza_2.png>]
-<./Listas/lista_insertar_cabeza_3.png, id=341, 1258.7025pt x 576.1525pt>
+<./Listas/lista_insertar_cabeza_3.png, id=352, 1258.7025pt x 576.1525pt>
 File: ./Listas/lista_insertar_cabeza_3.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_cabeza_3.png>
@@ -1348,7 +1353,7 @@ e 97.
  [7
 
  <./Listas/lista_insertar_cabeza_3.png>] <./Listas/lista_insertar_caso1_1.png, 
-id=378, 1971.365pt x 1017.8025pt>
+id=390, 1971.365pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso1_1.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso1_1.png>
@@ -1358,7 +1363,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso1_1.png used on input line
  [8
 
  <./Listas/lista_insertar_caso1_1.png>]
-<./Listas/lista_insertar_caso1_2.png, id=415, 1970.36125pt x 1016.79875pt>
+<./Listas/lista_insertar_caso1_2.png, id=428, 1970.36125pt x 1016.79875pt>
 File: ./Listas/lista_insertar_caso1_2.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso1_2.png>
@@ -1368,7 +1373,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso1_2.png used on input line
  [9
 
  <./Listas/lista_insertar_caso1_2.png>]
-<./Listas/lista_insertar_caso1_3.png, id=451, 1970.36125pt x 1016.79875pt>
+<./Listas/lista_insertar_caso1_3.png, id=465, 1970.36125pt x 1016.79875pt>
 File: ./Listas/lista_insertar_caso1_3.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso1_3.png>
@@ -1378,7 +1383,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso1_3.png used on input line
  [10
 
  <./Listas/lista_insertar_caso1_3.png>]
-<./Listas/lista_insertar_caso1_4.png, id=487, 1970.36125pt x 1016.79875pt>
+<./Listas/lista_insertar_caso1_4.png, id=502, 1970.36125pt x 1016.79875pt>
 File: ./Listas/lista_insertar_caso1_4.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso1_4.png>
@@ -1388,7 +1393,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso1_4.png used on input line
  [11
 
  <./Listas/lista_insertar_caso1_4.png>]
-<./Listas/lista_insertar_caso1_5.png, id=524, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso1_5.png, id=540, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso1_5.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso1_5.png>
@@ -1398,7 +1403,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso1_5.png used on input line
  [12
 
  <./Listas/lista_insertar_caso1_5.png>]
-<./Listas/lista_insertar_caso2_1.png, id=560, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_1.png, id=577, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_1.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_1.png>
@@ -1408,7 +1413,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso2_1.png used on input line
  [13
 
  <./Listas/lista_insertar_caso2_1.png>]
-<./Listas/lista_insertar_caso2_2.png, id=597, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_2.png, id=615, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_2.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_2.png>
@@ -1418,7 +1423,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso2_2.png used on input line
  [14
 
  <./Listas/lista_insertar_caso2_2.png>]
-<./Listas/lista_insertar_caso2_3.png, id=634, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_3.png, id=653, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_3.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_3.png>
@@ -1428,7 +1433,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso2_3.png used on input line
  [15
 
  <./Listas/lista_insertar_caso2_3.png>]
-<./Listas/lista_insertar_caso2_4.png, id=670, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_4.png, id=690, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_4.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_4.png>
@@ -1438,7 +1443,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso2_4.png used on input line
  [16
 
  <./Listas/lista_insertar_caso2_4.png>]
-<./Listas/lista_insertar_caso2_5.png, id=706, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_5.png, id=727, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_5.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_5.png>
@@ -1448,7 +1453,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso2_5.png used on input line
  [17
 
  <./Listas/lista_insertar_caso2_5.png>]
-<./Listas/lista_insertar_caso2_6.png, id=743, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_6.png, id=765, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_6.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_6.png>
@@ -1458,7 +1463,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso2_6.png used on input line
  [18
 
  <./Listas/lista_insertar_caso2_6.png>]
-<./Listas/lista_insertar_caso3_1.png, id=779, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_1.png, id=802, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_1.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_1.png>
@@ -1468,7 +1473,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso3_1.png used on input line
  [19
 
  <./Listas/lista_insertar_caso3_1.png>]
-<./Listas/lista_insertar_caso3_2.png, id=816, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_2.png, id=841, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_2.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_2.png>
@@ -1478,7 +1483,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso3_2.png used on input line
  [20
 
  <./Listas/lista_insertar_caso3_2.png>]
-<./Listas/lista_insertar_caso3_3.png, id=853, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_3.png, id=878, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_3.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_3.png>
@@ -1488,7 +1493,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso3_3.png used on input line
  [21
 
  <./Listas/lista_insertar_caso3_3.png>]
-<./Listas/lista_insertar_caso3_4.png, id=889, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_4.png, id=915, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_4.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_4.png>
@@ -1498,7 +1503,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso3_4.png used on input line
  [22
 
  <./Listas/lista_insertar_caso3_4.png>]
-<./Listas/lista_insertar_caso3_5.png, id=925, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_5.png, id=953, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_5.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_5.png>
@@ -1508,7 +1513,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso3_5.png used on input line
  [23
 
  <./Listas/lista_insertar_caso3_5.png>]
-<./Listas/lista_insertar_caso3_6.png, id=961, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_6.png, id=989, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_6.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_6.png>
@@ -1518,7 +1523,7 @@ Package pdftex.def Info: ./Listas/lista_insertar_caso3_6.png used on input line
  [24
 
  <./Listas/lista_insertar_caso3_6.png>]
-<./Listas/lista_eliminar_caso1_1.png, id=996, 1940.24875pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso1_1.png, id=1025, 1940.24875pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso1_1.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso1_1.png>
@@ -1528,7 +1533,7 @@ Package pdftex.def Info: ./Listas/lista_eliminar_caso1_1.png used on input line
  [25
 
  <./Listas/lista_eliminar_caso1_1.png>]
-<./Listas/lista_eliminar_caso1_2.png, id=1033, 1940.24875pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso1_2.png, id=1064, 1940.24875pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso1_2.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso1_2.png>
@@ -1538,7 +1543,7 @@ Package pdftex.def Info: ./Listas/lista_eliminar_caso1_2.png used on input line
  [26
 
  <./Listas/lista_eliminar_caso1_2.png>]
-<./Listas/lista_eliminar_caso1_3.png, id=1070, 1940.24875pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso1_3.png, id=1101, 1940.24875pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso1_3.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso1_3.png>
@@ -1548,7 +1553,7 @@ Package pdftex.def Info: ./Listas/lista_eliminar_caso1_3.png used on input line
  [27
 
  <./Listas/lista_eliminar_caso1_3.png>]
-<./Listas/lista_eliminar_caso1_4.png, id=1106, 1940.24875pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso1_4.png, id=1138, 1940.24875pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso1_4.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso1_4.png>
@@ -1558,7 +1563,7 @@ Package pdftex.def Info: ./Listas/lista_eliminar_caso1_4.png used on input line
  [28
 
  <./Listas/lista_eliminar_caso1_4.png>]
-<./Listas/lista_eliminar_caso1_5.png, id=1142, 1941.2525pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso1_5.png, id=1176, 1941.2525pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso1_5.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso1_5.png>
@@ -1568,7 +1573,7 @@ Package pdftex.def Info: ./Listas/lista_eliminar_caso1_5.png used on input line
  [29
 
  <./Listas/lista_eliminar_caso1_5.png>]
-<./Listas/lista_eliminar_caso2_1.png, id=1179, 1941.2525pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso2_1.png, id=1213, 1941.2525pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso2_1.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso2_1.png>
@@ -1578,7 +1583,7 @@ Package pdftex.def Info: ./Listas/lista_eliminar_caso2_1.png used on input line
  [30
 
  <./Listas/lista_eliminar_caso2_1.png>]
-<./Listas/lista_eliminar_caso2_2.png, id=1215, 1940.24875pt x 1105.12875pt>
+<./Listas/lista_eliminar_caso2_2.png, id=1250, 1940.24875pt x 1105.12875pt>
 File: ./Listas/lista_eliminar_caso2_2.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso2_2.png>
@@ -1588,7 +1593,7 @@ Package pdftex.def Info: ./Listas/lista_eliminar_caso2_2.png used on input line
  [31
 
  <./Listas/lista_eliminar_caso2_2.png>]
-<./Listas/lista_eliminar_caso2_3.png, id=1252, 1940.24875pt x 1105.12875pt>
+<./Listas/lista_eliminar_caso2_3.png, id=1289, 1940.24875pt x 1105.12875pt>
 File: ./Listas/lista_eliminar_caso2_3.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso2_3.png>
@@ -1598,7 +1603,7 @@ Package pdftex.def Info: ./Listas/lista_eliminar_caso2_3.png used on input line
  [32
 
  <./Listas/lista_eliminar_caso2_3.png>]
-<./Listas/lista_eliminar_caso2_4.png, id=1289, 1940.24875pt x 1106.1325pt>
+<./Listas/lista_eliminar_caso2_4.png, id=1326, 1940.24875pt x 1106.1325pt>
 File: ./Listas/lista_eliminar_caso2_4.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso2_4.png>
@@ -1608,7 +1613,7 @@ Package pdftex.def Info: ./Listas/lista_eliminar_caso2_4.png used on input line
  [33
 
  <./Listas/lista_eliminar_caso2_4.png>]
-<./Listas/lista_eliminar_caso2_5.png, id=1324, 1941.2525pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso2_5.png, id=1362, 1941.2525pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso2_5.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso2_5.png>
@@ -1618,7 +1623,7 @@ Package pdftex.def Info: ./Listas/lista_eliminar_caso2_5.png used on input line
  [34
 
  <./Listas/lista_eliminar_caso2_5.png>]
-<./Listas/lista_circular_simple.png, id=1359, 1940.24875pt x 1078.0275pt>
+<./Listas/lista_circular_simple.png, id=1399, 1940.24875pt x 1078.0275pt>
 File: ./Listas/lista_circular_simple.png Graphic file (type png)
 
 <use ./Listas/lista_circular_simple.png>
@@ -1632,7 +1637,7 @@ Overfull \vbox (17.51283pt too high) detected at line 293
 [35
 
  <./Listas/lista_circular_simple.png>]
-<images/pila.png, id=1392, 229.85875pt x 227.85126pt>
+<images/pila.png, id=1432, 229.85875pt x 227.85126pt>
 File: images/pila.png Graphic file (type png)
  <use images/pila.png>
 Package pdftex.def Info: images/pila.png used on input line 317.
@@ -1640,13 +1645,13 @@ Package pdftex.def Info: images/pila.png used on input line 317.
 
 [36
 
- <./images/pila.png>] <images/push1.png, id=1430, 360.34625pt x 236.885pt>
+ <./images/pila.png>] <images/push1.png, id=1471, 360.34625pt x 236.885pt>
 File: images/push1.png Graphic file (type png)
 
 <use images/push1.png>
 Package pdftex.def Info: images/push1.png used on input line 339.
 (pdftex.def)             Requested size: 138.2795pt x 90.9028pt.
- <images/push2.png, id=1431, 219.82124pt x 199.74625pt>
+ <images/push2.png, id=1472, 219.82124pt x 199.74625pt>
 File: images/push2.png Graphic file (type png)
 
 <use images/push2.png>
@@ -1655,13 +1660,13 @@ Package pdftex.def Info: images/push2.png used on input line 339.
  [37
 
  <./images/push1.png> <./images/push2.png>]
-<images/pop1.png, id=1469, 219.82124pt x 246.9225pt>
+<images/pop1.png, id=1512, 219.82124pt x 246.9225pt>
 File: images/pop1.png Graphic file (type png)
  <use images/pop1.png>
 Package pdftex.def Info: images/pop1.png used on input line 360.
 (pdftex.def)             Requested size: 122.9164pt x 138.06842pt.
 
-<images/pop2.png, id=1470, 219.82124pt x 149.55875pt>
+<images/pop2.png, id=1513, 219.82124pt x 149.55875pt>
 File: images/pop2.png Graphic file (type png)
  <use images/pop2.png>
 Package pdftex.def Info: images/pop2.png used on input line 360.
@@ -1670,7 +1675,7 @@ Package pdftex.def Info: images/pop2.png used on input line 360.
 [38
 
  <./images/pop1.png> <./images/pop2.png>]
-<images/push01.png, id=1508, 843.61868pt x 214.56035pt>
+<images/push01.png, id=1551, 843.61868pt x 214.56035pt>
 File: images/push01.png Graphic file (type png)
 
 <use images/push01.png>
@@ -1679,7 +1684,7 @@ Package pdftex.def Info: images/push01.png used on input line 372.
  [39
 
  <./images/push01.png>]
-<images/push02.png, id=1546, 843.61868pt x 214.56035pt>
+<images/push02.png, id=1590, 843.61868pt x 214.56035pt>
 File: images/push02.png Graphic file (type png)
 
 <use images/push02.png>
@@ -1688,7 +1693,7 @@ Package pdftex.def Info: images/push02.png used on input line 382.
  [40
 
  <./images/push02.png>]
-<images/push03.png, id=1583, 843.61868pt x 214.56035pt>
+<images/push03.png, id=1629, 843.61868pt x 214.56035pt>
 File: images/push03.png Graphic file (type png)
 
 <use images/push03.png>
@@ -1697,7 +1702,7 @@ Package pdftex.def Info: images/push03.png used on input line 392.
  [41
 
  <./images/push03.png>]
-<images/push04.png, id=1620, 843.61868pt x 214.56035pt>
+<images/push04.png, id=1666, 843.61868pt x 214.56035pt>
 File: images/push04.png Graphic file (type png)
 
 <use images/push04.png>
@@ -1706,7 +1711,7 @@ Package pdftex.def Info: images/push04.png used on input line 403.
  [42
 
  <./images/push04.png>]
-<images/pop02.png, id=1656, 843.61868pt x 211.18588pt>
+<images/pop02.png, id=1703, 843.61868pt x 211.18588pt>
 File: images/pop02.png Graphic file (type png)
  <use images/pop02.png>
 Package pdftex.def Info: images/pop02.png used on input line 415.
@@ -1715,7 +1720,7 @@ Package pdftex.def Info: images/pop02.png used on input line 415.
 [43
 
  <./images/pop02.png>]
-<images/pop03.png, id=1693, 843.61868pt x 211.18588pt>
+<images/pop03.png, id=1742, 843.61868pt x 211.18588pt>
 File: images/pop03.png Graphic file (type png)
  <use images/pop03.png>
 Package pdftex.def Info: images/pop03.png used on input line 425.
@@ -1724,7 +1729,7 @@ Package pdftex.def Info: images/pop03.png used on input line 425.
 [44
 
  <./images/pop03.png>]
-<imagenes/intro.png, id=1730, 715.67375pt x 208.78pt>
+<imagenes/intro.png, id=1779, 715.67375pt x 208.78pt>
 File: imagenes/intro.png Graphic file (type png)
  <use imagenes/intro.png>
 Package pdftex.def Info: imagenes/intro.png used on input line 439.
@@ -1733,7 +1738,7 @@ Package pdftex.def Info: imagenes/intro.png used on input line 439.
 [45
 
  <./imagenes/intro.png>]
-<imagenes/1push.png, id=1765, 269.005pt x 215.80624pt>
+<imagenes/1push.png, id=1817, 269.005pt x 215.80624pt>
 File: imagenes/1push.png Graphic file (type png)
 
 <use imagenes/1push.png>
@@ -1742,7 +1747,7 @@ Package pdftex.def Info: imagenes/1push.png used on input line 453.
  [46
 
  <./imagenes/1push.png>]
-<imagenes/2push.png, id=1801, 449.68pt x 243.91125pt>
+<imagenes/2push.png, id=1854, 449.68pt x 243.91125pt>
 File: imagenes/2push.png Graphic file (type png)
  <use imagenes/2push.png>
 Package pdftex.def Info: imagenes/2push.png used on input line 464.
@@ -1751,7 +1756,7 @@ Package pdftex.def Info: imagenes/2push.png used on input line 464.
 [47
 
  <./imagenes/2push.png>]
-<imagenes/2pop.png, id=1837, 671.50874pt x 223.83624pt>
+<imagenes/2pop.png, id=1890, 671.50874pt x 223.83624pt>
 File: imagenes/2pop.png Graphic file (type png)
 
 <use imagenes/2pop.png>
@@ -1760,7 +1765,7 @@ Package pdftex.def Info: imagenes/2pop.png used on input line 477.
  [48
 
  <./imagenes/2pop.png>]
-<imagenes/3pop.png, id=1873, 456.70625pt x 229.85875pt>
+<imagenes/3pop.png, id=1928, 456.70625pt x 229.85875pt>
 File: imagenes/3pop.png Graphic file (type png)
 
 <use imagenes/3pop.png>
@@ -1769,7 +1774,7 @@ Package pdftex.def Info: imagenes/3pop.png used on input line 486.
  [49
 
  <./imagenes/3pop.png>]
-<imagenes/1frent.png, id=1909, 669.50125pt x 223.83624pt>
+<imagenes/1frent.png, id=1965, 669.50125pt x 223.83624pt>
 File: imagenes/1frent.png Graphic file (type png)
 
 <use imagenes/1frent.png>
@@ -1778,7 +1783,7 @@ Package pdftex.def Info: imagenes/1frent.png used on input line 499.
  [50
 
  <./imagenes/1frent.png>]
-<imagenes/2frent.png, id=1945, 153.57375pt x 118.4425pt>
+<imagenes/2frent.png, id=2001, 153.57375pt x 118.4425pt>
 File: imagenes/2frent.png Graphic file (type png)
 
 <use imagenes/2frent.png>
@@ -1786,7 +1791,9 @@ Package pdftex.def Info: imagenes/2frent.png used on input line 509.
 (pdftex.def)             Requested size: 61.45703pt x 47.39784pt.
  [51
 
- <./imagenes/2frent.png>]
+ <./imagenes/2frent.png>] [52
+
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>]
 \tf@nav=\write6
 \openout6 = `"Listas Pilas y Colas.nav"'.
 
@@ -1796,38 +1803,39 @@ Package pdftex.def Info: imagenes/2frent.png used on input line 509.
 \tf@snm=\write8
 \openout8 = `"Listas Pilas y Colas.snm"'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 523.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 523.
 
 (./Listas Pilas y Colas.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 523.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 523.
 Package rerunfilecheck Info: File `"Listas Pilas y Colas".out' has not changed.
 
-(rerunfilecheck)             Checksum: 66399189B67E36FC483FA3B174BF3CC5;1027.
+(rerunfilecheck)             Checksum: 44502DCA83AEF6439BD5CB29B57805B2;1078.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 513.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 523.
  ) 
 Here is how much of TeX's memory you used:
- 17670 strings out of 494953
- 337834 string characters out of 6180977
- 398454 words of memory out of 5000000
- 20377 multiletter control sequences out of 15000+600000
- 6051 words of font info for 22 fonts, out of 8000000 for 9000
+ 17790 strings out of 494953
+ 339816 string characters out of 6180977
+ 400276 words of memory out of 5000000
+ 20489 multiletter control sequences out of 15000+600000
+ 6407 words of font info for 23 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  48i,20n,60p,398b,641s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on "Listas Pilas y Colas.pdf" (51 pages, 2835118 bytes).
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
+Output written on "Listas Pilas y Colas.pdf" (52 pages, 2866993 bytes).
 PDF statistics:
- 2026 PDF objects out of 2073 (max. 8388607)
- 1830 compressed objects within 19 object streams
- 121 named destinations out of 1000 (max. 500000)
- 477 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2126 PDF objects out of 2487 (max. 8388607)
+ 1923 compressed objects within 20 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 485 words of extra memory for PDF output out of 10000 (max. 10000000)
 

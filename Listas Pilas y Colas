@@ -3,7 +3,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{default}
 \usepackage{multicol}
-
+\usepackage{cite}
 \usetheme{Warsaw}
 \usecolortheme{seahorse}
 \useoutertheme{shadow}
@@ -509,6 +509,16 @@ Lista Circular \\
     \end{frame}
 
 
+
+\section{Bibliografía}
+\begin{frame}
+\frametitle{Bibliografía}
+\begin{thebibliography}{99}
+
+\bibitem{Cd94} Lopez C.[2016].\emph{En Algoritmos y Estructuras de Datos}. Universidad Nacional de San Agustin.
+
+\end{thebibliography}
+\end{frame}
 
 \end{document}
 

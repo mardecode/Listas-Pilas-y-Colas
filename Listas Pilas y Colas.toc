@@ -17,3 +17,4 @@
 \beamer@subsectionintoc {4}{2}{Encolar-Push}{46}{0}{4}
 \beamer@subsectionintoc {4}{3}{Desencolar-Pop}{48}{0}{4}
 \beamer@subsectionintoc {4}{4}{Frente-Front}{50}{0}{4}
+\beamer@sectionintoc {5}{Bibliograf\IeC {\'\i }a}{52}{0}{5}
