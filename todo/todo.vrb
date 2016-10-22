@@ -1,0 +1,6 @@
+\begin{minted}{c++}
+int main() {
+	cout<<"holi"<<endl;
+return 0;
+}
+\end{minted}
