@@ -1,0 +1,10 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{template} \PYG{o}{\PYGZlt{}}\PYG{k}{class} \PYG{n+nc}{T}\PYG{o}{\PYGZgt{}}
+\PYG{k+kt}{void} \PYG{n}{Pila}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}::}\PYG{n}{print}\PYG{p}{(}\PYG{n}{ostream} \PYG{o}{\PYGZam{}} \PYG{n}{os}\PYG{p}{)\PYGZob{}}
+	\PYG{n}{Nodo}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}} \PYG{o}{*} \PYG{n}{temp} \PYG{o}{=} \PYG{n}{m\PYGZus{}phead}\PYG{p}{;}
+	\PYG{k}{while}\PYG{p}{(}\PYG{n}{temp}\PYG{p}{)\PYGZob{}}
+		\PYG{n}{os}\PYG{o}{\PYGZlt{}\PYGZlt{}}\PYG{n}{temp}\PYG{o}{\PYGZhy{}\PYGZgt{}}\PYG{n}{m\PYGZus{}dato}\PYG{o}{\PYGZlt{}\PYGZlt{}}\PYG{l+s}{\PYGZdq{}\PYGZhy{}\PYGZgt{}\PYGZdq{}}\PYG{p}{;}
+		\PYG{n}{temp} \PYG{o}{=} \PYG{n}{temp}\PYG{o}{\PYGZhy{}\PYGZgt{}}\PYG{n}{m\PYGZus{}psiguiente}\PYG{p}{;}
+	\PYG{p}{\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

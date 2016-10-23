@@ -1,6 +1,11 @@
+\frametitle{Print}
 \begin{minted}{c++}
-int main() {
-	cout<<"holi"<<endl;
-return 0;
+template <class T>
+void Pila<T>::print(ostream & os){
+	Nodo<T> * temp = m_phead;
+	while(temp){
+		os<<temp->m_dato<<"->";
+		temp = temp->m_psiguiente;
+	}
 }
 \end{minted}

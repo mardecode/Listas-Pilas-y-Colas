@@ -23,15 +23,6 @@
     \titlepage
  \end{frame}
 
-\begin{frame}[fragile]
-\begin{minted}{c++}
-int main() {
-	cout<<"holi"<<endl;
-return 0;
-}
-\end{minted}
-\end{frame}  
-
  \begin{frame}
   \frametitle{Índice}
   \begin{multicols}{2}
@@ -328,6 +319,7 @@ Lista Circular \\
 \end{frame}
 
 
+
 \subsection{Push}
 
 \begin{frame}
@@ -370,6 +362,57 @@ Lista Circular \\
     
 \end{frame}
 
+\begin{frame}[fragile]
+\frametitle{Implementacion Clase Nodo}
+\begin{minted}{c++}
+template <class T>
+
+class Nodo
+{
+
+public:
+
+	T           m_dato;
+	Nodo<T> *   m_psiguiente;	
+
+public:
+
+	Nodo(T d){
+		m_psiguiente = 0;
+		m_dato = d;
+	}
+
+};
+\end{minted}
+\end{frame}  
+
+
+\begin{frame}[fragile]
+\frametitle{Implementacion Clase Pila}
+\begin{minted}{c++}
+#include "Nodo.h"
+#include <ostream>
+
+using namespace std;
+
+template <class T>
+class Pila
+{
+public:
+	Nodo<T> *   m_phead;
+	
+public:
+	Pila(){
+		m_phead = 0;
+	}
+
+	void push(T);
+	T    pop();
+	T    top();
+	void print(ostream & os);	
+};
+\end{minted}
+\end{frame}  
 
 \subsection{Push - Lista}
 \begin{frame}
@@ -414,6 +457,23 @@ Lista Circular \\
 \end{frame}
 
 
+\begin{frame}[fragile]
+\frametitle{Push}
+\begin{minted}{c++}
+template <class T>
+void Pila<T>::push(T d){
+	Nodo<T> * nuevo = new Nodo<T>(d);
+	if(!m_phead)
+		m_phead = nuevo;
+	else{
+		nuevo->m_psiguiente = m_phead;
+		m_phead = nuevo;
+	}
+}
+\end{minted}
+\end{frame}  
+
+
 \subsection{Pop - Lista}
 \begin{frame}
     \frametitle{Pop - Lista}
@@ -434,6 +494,37 @@ Lista Circular \\
     \end{figure}
        
 \end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Pop}
+\begin{minted}{c++}
+template <class T>
+T Pila<T>::pop(){
+	Nodo<T> * temp = m_phead;
+	m_phead = m_phead->m_psiguiente;
+	T dato = temp->m_dato;
+	delete(temp);
+	return dato;
+}
+
+\end{minted}
+\end{frame}  
+
+
+\begin{frame}[fragile]
+\frametitle{Print}
+\begin{minted}{c++}
+template <class T>
+void Pila<T>::print(ostream & os){
+	Nodo<T> * temp = m_phead;
+	while(temp){
+		os<<temp->m_dato<<"->";
+		temp = temp->m_psiguiente;
+	}
+}
+\end{minted}
+\end{frame}  
+
 
 
 \section {Colas}

@@ -1,0 +1,10 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{template} \PYG{o}{\PYGZlt{}}\PYG{k}{class} \PYG{n+nc}{T}\PYG{o}{\PYGZgt{}}
+\PYG{n}{T} \PYG{n}{Pila}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}::}\PYG{n}{pop}\PYG{p}{()\PYGZob{}}
+	\PYG{n}{Nodo}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}} \PYG{o}{*} \PYG{n}{temp} \PYG{o}{=} \PYG{n}{m\PYGZus{}phead}\PYG{p}{;}
+	\PYG{n}{m\PYGZus{}phead} \PYG{o}{=} \PYG{n}{m\PYGZus{}phead}\PYG{o}{\PYGZhy{}\PYGZgt{}}\PYG{n}{m\PYGZus{}psiguiente}\PYG{p}{;}
+	\PYG{n}{T} \PYG{n}{dato} \PYG{o}{=} \PYG{n}{temp}\PYG{o}{\PYGZhy{}\PYGZgt{}}\PYG{n}{m\PYGZus{}dato}\PYG{p}{;}
+	\PYG{k}{delete}\PYG{p}{(}\PYG{n}{temp}\PYG{p}{);}
+	\PYG{k}{return} \PYG{n}{dato}\PYG{p}{;}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}
