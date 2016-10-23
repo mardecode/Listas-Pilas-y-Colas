@@ -1,5 +1,5 @@
 \frametitle{Print}
-\begin{minted}{c++}
+\begin{minted}[linenos=true]{c++}
 template <class T>
 void Pila<T>::print(ostream & os){
 	Nodo<T> * temp = m_phead;

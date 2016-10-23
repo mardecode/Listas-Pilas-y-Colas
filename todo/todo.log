@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.1)  22 OCT 2016 23:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.2)  23 OCT 2016 05:18
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1798,6 +1798,10 @@ Overfull \vbox (54.145pt too high) detected at line 387
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -P commandprefix=PYG -F tokenmerge -o "_mi
+nted-todo/48A5990598AEB0BF3EF401C555A7A3F7DA529FD67AEA4DF0CF9FCA4AFA9D2E8B.pygt
+ex" "todo.pyg" )...executed.
+
 
 (./_minted-todo/48A5990598AEB0BF3EF401C555A7A3F7DA529FD67AEA4DF0CF9FCA4AFA9D2E8
 B.pygtex))
@@ -1806,7 +1810,7 @@ Overfull \vbox (94.94502pt too high) detected at line 415
 
 [40
 
-] <images/push01.png, id=1626, 843.61868pt x 214.56035pt>
+] <images/push01.png, id=1627, 843.61868pt x 214.56035pt>
 File: images/push01.png Graphic file (type png)
 
 <use images/push01.png>
@@ -1815,7 +1819,7 @@ Package pdftex.def Info: images/push01.png used on input line 426.
  [41
 
  <./images/push01.png>]
-<images/push02.png, id=1665, 843.61868pt x 214.56035pt>
+<images/push02.png, id=1666, 843.61868pt x 214.56035pt>
 File: images/push02.png Graphic file (type png)
 
 <use images/push02.png>
@@ -1824,7 +1828,7 @@ Package pdftex.def Info: images/push02.png used on input line 436.
  [42
 
  <./images/push02.png>]
-<images/push03.png, id=1703, 843.61868pt x 214.56035pt>
+<images/push03.png, id=1704, 843.61868pt x 214.56035pt>
 File: images/push03.png Graphic file (type png)
 
 <use images/push03.png>
@@ -1833,7 +1837,7 @@ Package pdftex.def Info: images/push03.png used on input line 446.
  [43
 
  <./images/push03.png>]
-<images/push04.png, id=1742, 843.61868pt x 214.56035pt>
+<images/push04.png, id=1744, 843.61868pt x 214.56035pt>
 File: images/push04.png Graphic file (type png)
 
 <use images/push04.png>
@@ -1847,15 +1851,11 @@ Package pdftex.def Info: images/push04.png used on input line 457.
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
-runsystem(pygmentize -l c++ -f latex -P commandprefix=PYG -F tokenmerge -o "_mi
-nted-todo/6367D3A5D1C5907B8BD8C6BA33EA8D3FDA529FD67AEA4DF0CF9FCA4AFA9D2E8B.pygt
-ex" "todo.pyg" )...executed.
-
 
 (./_minted-todo/6367D3A5D1C5907B8BD8C6BA33EA8D3FDA529FD67AEA4DF0CF9FCA4AFA9D2E8
 B.pygtex)) [45
 
-] <images/pop02.png, id=1814, 843.61868pt x 211.18588pt>
+] <images/pop02.png, id=1816, 843.61868pt x 211.18588pt>
 File: images/pop02.png Graphic file (type png)
 
 <use images/pop02.png>
@@ -1864,7 +1864,7 @@ Package pdftex.def Info: images/pop02.png used on input line 486.
  [46
 
  <./images/pop02.png>]
-<images/pop03.png, id=1853, 843.61868pt x 211.18588pt>
+<images/pop03.png, id=1855, 843.61868pt x 211.18588pt>
 File: images/pop03.png Graphic file (type png)
  <use images/pop03.png>
 Package pdftex.def Info: images/pop03.png used on input line 496.
@@ -1878,10 +1878,6 @@ Package pdftex.def Info: images/pop03.png used on input line 496.
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
-runsystem(pygmentize -l c++ -f latex -P commandprefix=PYG -F tokenmerge -o "_mi
-nted-todo/C57FD28FC6C3EADCE4F27F604377AB62DA529FD67AEA4DF0CF9FCA4AFA9D2E8B.pygt
-ex" "todo.pyg" )...executed.
-
 
 (./_minted-todo/C57FD28FC6C3EADCE4F27F604377AB62DA529FD67AEA4DF0CF9FCA4AFA9D2E8
 B.pygtex)) [48
@@ -1892,15 +1888,11 @@ B.pygtex)) [48
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
-runsystem(pygmentize -l c++ -f latex -P commandprefix=PYG -F tokenmerge -o "_mi
-nted-todo/5BDD5284164950627104250A0878BCBADA529FD67AEA4DF0CF9FCA4AFA9D2E8B.pygt
-ex" "todo.pyg" )...executed.
-
 
 (./_minted-todo/5BDD5284164950627104250A0878BCBADA529FD67AEA4DF0CF9FCA4AFA9D2E8
 B.pygtex)) [49
 
-] <imagenes/intro.png, id=1964, 715.67375pt x 208.78pt>
+] <imagenes/intro.png, id=1965, 715.67375pt x 208.78pt>
 File: imagenes/intro.png Graphic file (type png)
 
 <use imagenes/intro.png>
@@ -1954,7 +1946,7 @@ Package pdftex.def Info: imagenes/1frent.png used on input line 601.
  [55
 
  <./imagenes/1frent.png>]
-<imagenes/2frent.png, id=2189, 153.57375pt x 118.4425pt>
+<imagenes/2frent.png, id=2187, 153.57375pt x 118.4425pt>
 File: imagenes/2frent.png Graphic file (type png)
 
 <use imagenes/2frent.png>
@@ -1981,15 +1973,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 626.
  (./todo.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 626.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 626.
+Package rerunfilecheck Info: File `todo.out' has not changed.
+(rerunfilecheck)             Checksum: E3493E0A6BB51E22CD18C87E1E4E5ED0;1078.
 
-
-Package rerunfilecheck Warning: File `todo.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `todo.out':
-(rerunfilecheck)             Before: 11D8F71FB753FFD740F17B6FE9E2CBD3;1078
-(rerunfilecheck)             After:  E3493E0A6BB51E22CD18C87E1E4E5ED0;1078.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -1997,39 +1983,25 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 626.
  ) 
 Here is how much of TeX's memory you used:
- 20275 strings out of 494953
- 387414 string characters out of 6180977
- 483804 words of memory out of 5000000
- 22878 multiletter control sequences out of 15000+600000
- 6743 words of font info for 25 fonts, out of 8000000 for 9000
+ 20280 strings out of 494953
+ 387496 string characters out of 6180977
+ 484022 words of memory out of 5000000
+ 22886 multiletter control sequences out of 15000+600000
+ 7044 words of font info for 26 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  48i,20n,60p,910b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Outline0.4.4.52} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.3.50} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.2.48} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.1.47} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.5.45} has been referenced but does not e
-xist, replaced by a fixed one
-
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on todo.pdf (57 pages, 2944530 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmtt10.pfb>
+Output written on todo.pdf (57 pages, 2930902 bytes).
 PDF statistics:
- 2325 PDF objects out of 2487 (max. 8388607)
- 2113 compressed objects within 22 object streams
- 140 named destinations out of 1000 (max. 500000)
+ 2323 PDF objects out of 2487 (max. 8388607)
+ 2110 compressed objects within 22 object streams
+ 135 named destinations out of 1000 (max. 500000)
  485 words of extra memory for PDF output out of 10000 (max. 10000000)
 

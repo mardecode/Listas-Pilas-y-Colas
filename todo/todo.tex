@@ -364,7 +364,7 @@ Lista Circular \\
 
 \begin{frame}[fragile]
 \frametitle{Implementacion Clase Nodo}
-\begin{minted}{c++}
+\begin{minted}[linenos=true]{c++}
 template <class T>
 
 class Nodo
@@ -389,7 +389,7 @@ public:
 
 \begin{frame}[fragile]
 \frametitle{Implementacion Clase Pila}
-\begin{minted}{c++}
+\begin{minted}[linenos=true]{c++}
 #include "Nodo.h"
 #include <ostream>
 
@@ -459,7 +459,7 @@ public:
 
 \begin{frame}[fragile]
 \frametitle{Push}
-\begin{minted}{c++}
+\begin{minted}[linenos=true]{c++}
 template <class T>
 void Pila<T>::push(T d){
 	Nodo<T> * nuevo = new Nodo<T>(d);
@@ -495,9 +495,9 @@ void Pila<T>::push(T d){
        
 \end{frame}
 
-\begin{frame}[fragile]
+\begin{frame}[fragile]  
 \frametitle{Pop}
-\begin{minted}{c++}
+\begin{minted}[linenos=true]{c++}
 template <class T>
 T Pila<T>::pop(){
 	Nodo<T> * temp = m_phead;
@@ -513,7 +513,7 @@ T Pila<T>::pop(){
 
 \begin{frame}[fragile]
 \frametitle{Print}
-\begin{minted}{c++}
+\begin{minted}[linenos=true]{c++}
 template <class T>
 void Pila<T>::print(ostream & os){
 	Nodo<T> * temp = m_phead;
