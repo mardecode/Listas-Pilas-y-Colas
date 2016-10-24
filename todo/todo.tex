@@ -63,8 +63,50 @@ Lista simple \\
 
 \end{frame}
 
+\begin{frame}[fragile]
+  Nodo.
+  \begin{minted}[linenos=true]{c++}
+    template<class T>
+    class Nodo
+    {
+    public:
+        ~Nodo(){}
+        Nodo(T d){  m_dato=d;  m_pSig=0; }
+    private:
+        Nodo<T>* m_pSig;
+        T m_dato;
+    friend class Lista<T>;
+    };
+
+
+  \end{minted}
+\end{frame}
+
+
+\begin{frame}[fragile]
+  Lista.
+  \begin{minted}[linenos=true]{c++}
+    template<class T>
+    class Lista
+    {
+    public:
+        Lista() { m_pHead=0; }
+        ~Lista(){}
+        bool find(T d, Nodo<T>**& p);
+        bool add(T d);
+        bool remove(T d);
+        void imprimir();
+    private:
+        Nodo<T>* m_pHead;    
+    };
+
+  \end{minted}
+\end{frame}
 
 \subsection{Insertar}
+
+
+
 \begin{frame}
   
   Inserción cuando el puntero a la cabeza es 0.
@@ -214,6 +256,45 @@ Lista simple \\
   
 \end{frame}
 
+\begin{frame}[fragile] 
+  Find.
+  \begin{minted}[linenos=true]{c++}
+    template<class T>
+    bool Lista<T>::find(T d, Nodo<T>**& p)
+    {
+        p=&m_pHead;
+        while(*p)
+        {
+            if((*p)->m_dato==d) return 1;
+            if((*p)->m_dato>d) return 0;
+            p=&((*p)->m_pSig);
+        }
+        return 0;
+    }
+  \end{minted}
+\end{frame}
+
+
+\begin{frame}[fragile]
+  Insertar.
+  \begin{minted}[linenos=true]{c++}
+    template<class T>
+    bool Lista<T>::add(T d)
+    {
+        Nodo<T>** p;
+        if(find(d,p)) return 0;
+        Nodo<T>* nuevo=new Nodo<T>(d);
+        nuevo->m_pSig=(*p);
+        (*p)=nuevo;
+        return 1;
+    }
+
+  \end{minted}
+\end{frame}
+
+
+
+
 
 \subsection{Eliminar}
 
@@ -280,6 +361,42 @@ Lista simple \\
   \includegraphics[scale=0.15]{./Listas/lista_eliminar_caso2_5.png}
 \end{frame}
 
+
+\begin{frame}[fragile]
+  Eliminar.
+  \begin{minted}[linenos=true]{c++}
+    template<class T>
+    bool Lista<T>::remove(T d)
+    {
+        Nodo<T>**p;
+        if(!find(d,p)) return 0;
+        Nodo<T>* temp=(*p);
+        (*p)=temp->m_pSig;
+        delete temp;
+        return 1;
+    }
+
+  \end{minted}
+\end{frame}
+
+
+\begin{frame}[fragile]
+  Imprimir.
+  \begin{minted}[linenos=true]{c++}
+    template<class T>
+    void Lista<T>::imprimir()
+    {
+        Nodo<T>*p=m_pHead;
+        while(p){
+            cout<<p->m_dato<<endl;
+            p=p->m_pSig;
+        }
+    }
+
+  \end{minted}
+\end{frame}
+
+
 \section{Lista Circular}
 
 \subsection{Definición}
@@ -289,7 +406,7 @@ Lista Circular \\
   \begin{itemize}
   
   \item Una Lista Circular es una lista simple en la que el ultimo nodo apunta al primer nodo.
-  \item Las operaciones de insertar y eliminar son similares a las de una lista simple.	
+  \item Las operaciones de insertar y eliminar son similares a las de una lista simple. 
   \end{itemize}
   \includegraphics[scale=0.15]{./Listas/lista_circular_simple.png}
 \end{frame}
@@ -369,13 +486,13 @@ template <class T>
 class Nodo
 {
 public:
-	T           m_dato;
-	Nodo<T> *   m_psiguiente;	
+  T           m_dato;
+  Nodo<T> *   m_psiguiente; 
 public:
-	Nodo(T d){
-		m_psiguiente = 0;
-		m_dato = d;
-	}
+  Nodo(T d){
+    m_psiguiente = 0;
+    m_dato = d;
+  }
 };
 \end{minted}
 \end{frame}  
@@ -390,14 +507,14 @@ using namespace std;
 template <class T>
 class Pila
 {public:
-	Nodo<T> *   m_phead;
+  Nodo<T> *   m_phead;
 public:
-	Pila(){
-		m_phead = 0;}
-	void push(T);
-	T    pop();
-	T    top();
-	void print(ostream & os);	};
+  Pila(){
+    m_phead = 0;}
+  void push(T);
+  T    pop();
+  T    top();
+  void print(ostream & os); };
 \end{minted}
 \end{frame}  
 
@@ -449,13 +566,13 @@ public:
 \begin{minted}[linenos=true]{c++}
 template <class T>
 void Pila<T>::push(T d){
-	Nodo<T> * nuevo = new Nodo<T>(d);
-	if(!m_phead)
-		m_phead = nuevo;
-	else{
-		nuevo->m_psiguiente = m_phead;
-		m_phead = nuevo;
-	}
+  Nodo<T> * nuevo = new Nodo<T>(d);
+  if(!m_phead)
+    m_phead = nuevo;
+  else{
+    nuevo->m_psiguiente = m_phead;
+    m_phead = nuevo;
+  }
 }
 \end{minted}
 \end{frame}  
@@ -487,11 +604,11 @@ void Pila<T>::push(T d){
 \begin{minted}[linenos=true]{c++}
 template <class T>
 T Pila<T>::pop(){
-	Nodo<T> * temp = m_phead;
-	m_phead = m_phead->m_psiguiente;
-	T dato = temp->m_dato;
-	delete(temp);
-	return dato;
+  Nodo<T> * temp = m_phead;
+  m_phead = m_phead->m_psiguiente;
+  T dato = temp->m_dato;
+  delete(temp);
+  return dato;
 }
 
 \end{minted}
@@ -503,11 +620,11 @@ T Pila<T>::pop(){
 \begin{minted}[linenos=true]{c++}
 template <class T>
 void Pila<T>::print(ostream & os){
-	Nodo<T> * temp = m_phead;
-	while(temp){
-		os<<temp->m_dato<<"->";
-		temp = temp->m_psiguiente;
-	}
+  Nodo<T> * temp = m_phead;
+  while(temp){
+    os<<temp->m_dato<<"->";
+    temp = temp->m_psiguiente;
+  }
 }
 \end{minted}
 \end{frame}  
@@ -581,11 +698,11 @@ public:
     \end{frame}
     
     \begin{frame}
-	Cuando insertamos un elemento y la cola no esta vacía, este se añade al final de la cola.\\
-	Por último actualizamos el último elemento.\\
+  Cuando insertamos un elemento y la cola no esta vacía, este se añade al final de la cola.\\
+  Por último actualizamos el último elemento.\\
     
     \begin{figure}
-	\includegraphics[width =0.45 \textwidth]{imagenes/2push.png}
+  \includegraphics[width =0.45 \textwidth]{imagenes/2push.png}
       \caption{Insertar caso 2}
       \end{figure}
    
@@ -618,7 +735,7 @@ void cola<T>::push(T d){
       .\\
       
       \begin{figure}
-	\includegraphics[width =0.7 \textwidth]{imagenes/2pop.png}
+  \includegraphics[width =0.7 \textwidth]{imagenes/2pop.png}
       \caption{Eliminar}
       \end{figure}
       
@@ -628,8 +745,8 @@ void cola<T>::push(T d){
       Y actualizamos el primer elemento.
       .\\
       \begin{figure}
-	\includegraphics[width =0.5 \textwidth]{imagenes/3pop.png}
-	\caption{Actualizar al eliminar}
+  \includegraphics[width =0.5 \textwidth]{imagenes/3pop.png}
+  \caption{Actualizar al eliminar}
       \end{figure}
     \end{frame}
 
@@ -656,7 +773,7 @@ T cola<T>::pop(){
       .\\
       
       \begin{figure}
-	\includegraphics[width =0.7 \textwidth]{imagenes/1frent.png}
+  \includegraphics[width =0.7 \textwidth]{imagenes/1frent.png}
      \caption{Devolver elemento frontal}
      \end{figure}
       
@@ -666,7 +783,7 @@ T cola<T>::pop(){
 .
       .\\
       \begin{figure}
-	\includegraphics[width =0.2 \textwidth]{imagenes/2frent.png}
+  \includegraphics[width =0.2 \textwidth]{imagenes/2frent.png}
     \caption{Resultado}
     \end{figure}
     

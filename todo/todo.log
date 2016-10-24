@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.2)  23 OCT 2016 20:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.30)  23 OCT 2016 22:25
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **todo.tex
 (./todo.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasercs.sty
-Package: beamerbasercs 2015/03/08 (rcs-revision 368aa9ba9d38)
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texmf/tex/latex/beamer/base/beamer.cls
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasercs.sty
+Package: beamerbasercs 2012/11/13 (rcs-revision cb16a617839f)
 )
-Document Class: beamer 2015/01/05 3.36 A class for typesetting presentations (r
-cs-revision 8a39122e1f63)
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
-Package: beamerbasemodes 2013/09/03 (rcs-revision 768f2d98ca64)
+Document Class: beamer 2012/10/15 development version 3.24 A class for typesett
+ing presentations (rcs-revision 24853e6b98cf)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasemodes.sty
+Package: beamerbasemodes 2012/04/15 (rcs-revision cc6557182d97)
 \beamer@tempbox=\box26
 \beamer@tempcount=\count79
 \c@beamerpauses=\count80
 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasedecode.sty
 Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
 \beamer@slideinframe=\count81
 \beamer@minimum=\count82
@@ -73,11 +73,11 @@ Package ifpdf Info: pdfTeX in PDF mode is detected.
 \beamer@sectionadjust=\count100
 \beamer@tocsectionnumber=\count101
 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
-Package: beamerbaseoptions 2013/03/10 (rcs-revision 47431932db0d)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseoptions.sty
+Package: beamerbaseoptions 2010/04/27 (rcs-revision 982469101dd6)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 ))
 \beamer@paperwidth=\skip42
@@ -107,22 +107,22 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks15
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 95.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -138,72 +138,65 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen127
 \Gin@req@width=\dimen128
 )
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks16
-\pgfutil@tempdima=\dimen129
-\pgfutil@tempdimb=\dimen130
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
-ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box34
+
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks17
 \pgfkeys@temptoks=\toks18
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
-ex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks19
 ))
-\pgf@x=\dimen131
-\pgf@y=\dimen132
-\pgf@xa=\dimen133
-\pgf@ya=\dimen134
-\pgf@xb=\dimen135
-\pgf@yb=\dimen136
-\pgf@xc=\dimen137
-\pgf@yc=\dimen138
+\pgf@x=\dimen129
+\pgf@y=\dimen130
+\pgf@xa=\dimen131
+\pgf@ya=\dimen132
+\pgf@xb=\dimen133
+\pgf@yb=\dimen134
+\pgf@xc=\dimen135
+\pgf@yc=\dimen136
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
 \c@pgf@counta=\count106
 \c@pgf@countb=\count107
 \c@pgf@countc=\count108
 \c@pgf@countd=\count109
-\t@pgf@toka=\toks20
-\t@pgf@tokb=\toks21
-\t@pgf@tokc=\toks22
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
-Driver file for pgf: pgfsys-pdftex.def
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
-f
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 )))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
-tex
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
 \pgfsyssoftpath@smallbuffer@items=\count110
 \pgfsyssoftpath@bigbuffer@items=\count111
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
-tex
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
@@ -220,137 +213,112 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen139
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen137
 \pgfmath@count=\count112
 \pgfmath@box=\box35
-\pgfmath@toks=\toks23
-\pgfmath@stack@operand=\toks24
-\pgfmath@stack@operation=\toks25
+\pgfmath@toks=\toks20
+\pgfmath@stack@operand=\toks21
+\pgfmath@stack@operation=\toks22
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
-ric.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
-e.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
-.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
-thmetics.code.tex)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count113
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
-x
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen140
-\pgf@picmaxx=\dimen141
-\pgf@picminy=\dimen142
-\pgf@picmaxy=\dimen143
-\pgf@pathminx=\dimen144
-\pgf@pathmaxx=\dimen145
-\pgf@pathminy=\dimen146
-\pgf@pathmaxy=\dimen147
-\pgf@xx=\dimen148
-\pgf@xy=\dimen149
-\pgf@yx=\dimen150
-\pgf@yy=\dimen151
-\pgf@zx=\dimen152
-\pgf@zy=\dimen153
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen138
+\pgf@picmaxx=\dimen139
+\pgf@picminy=\dimen140
+\pgf@picmaxy=\dimen141
+\pgf@pathminx=\dimen142
+\pgf@pathmaxx=\dimen143
+\pgf@pathminy=\dimen144
+\pgf@pathmaxy=\dimen145
+\pgf@xx=\dimen146
+\pgf@xy=\dimen147
+\pgf@yx=\dimen148
+\pgf@yy=\dimen149
+\pgf@zx=\dimen150
+\pgf@zy=\dimen151
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
-code.tex
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen154
-\pgf@path@lasty=\dimen155
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen152
+\pgf@path@lasty=\dimen153
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
-.tex
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen156
-\pgf@shorten@start@additional=\dimen157
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen154
+\pgf@shorten@start@additional=\dimen155
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
-x
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
 \pgfpic=\box36
 \pgf@hbox=\box37
 \pgf@layerbox@main=\box38
 \pgf@picture@serial@count=\count114
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
-ode.tex
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen158
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen156
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
-s.code.tex
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen159
-\pgf@pt@y=\dimen160
-\pgf@pt@temp=\dimen161
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen157
+\pgf@pt@y=\dimen158
+\pgf@pt@temp=\dimen159
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
-ex
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
-.code.tex
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
-x
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen162
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen163
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen160
 \pgf@sys@shading@range@num=\count115
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
-tex
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
 \pgfexternal@startupbox=\box39
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
-x
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
-ode.tex
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
-tex
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count116
 \XC@countmixins=\count117
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
@@ -394,7 +362,7 @@ Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
-Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
@@ -404,7 +372,7 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen164
+\@linkdim=\dimen161
 \Hy@linkcounter=\count118
 \Hy@pagecounter=\count119
 
@@ -433,10 +401,10 @@ Package hyperref Info: Bookmarks ON on input line 4688.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen165
+\XeTeXLinkMargin=\dimen162
 \Fld@menulength=\count122
-\Field@Width=\dimen166
-\Fld@charsize=\dimen167
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -465,255 +433,250 @@ Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaserequires.sty
 Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasecompatibility.sty
 Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
-Package: beamerbasefont 2015/01/05  (rcs-revision b4b4bee242e2)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasefont.sty
+Package: beamerbasefont 2012/09/19  (rcs-revision 733629cd0c6c)
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks26
+\@emptytoks=\toks23
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetranslator.sty
 Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
+(/usr/share/texmf/tex/latex/beamer/base/translator/translator.sty
 Package: translator 2010/06/12 ver 1.10
 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator-language-
-mappings.tex)))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty
-Package: beamerbasemisc 2013/09/03  (rcs-revision a55719c41d85)
+(/usr/share/texmf/tex/latex/beamer/base/translator/translator-language-mappings
+.tex))) (/usr/share/texmf/tex/latex/beamer/base/beamerbasemisc.sty
+Package: beamerbasemisc 2012/02/24  (rcs-revision 2ff5461be705)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetwoscreens.sty
 Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
-Package: beamerbaseoverlay 2013/12/25  (rcs-revision f6bd5e3805da)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseoverlay.sty
+Package: beamerbaseoverlay 2012/11/11  (rcs-revision 6afbc49b1109)
 \beamer@argscount=\count126
 \beamer@lastskipcover=\skip44
 \beamer@trivlistdepth=\count127
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetitle.sty
 Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
-Package: beamerbasesection 2013/06/07  (rcs-revision 60b9fe0f342f)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasesection.sty
+Package: beamerbasesection 2012/11/11  (rcs-revision 0056eef6f17f)
 \c@lecture=\count128
 \c@part=\count129
 \c@section=\count130
 \c@subsection=\count131
 \c@subsubsection=\count132
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
-Package: beamerbaseframe 2014/02/20  (rcs-revision 4b8ceeeff434)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseframe.sty
+Package: beamerbaseframe 2012/09/13  (rcs-revision dcd846607320)
 \beamer@framebox=\box40
 \beamer@frametitlebox=\box41
 \beamer@zoombox=\box42
 \beamer@zoomcount=\count133
 \beamer@zoomframecount=\count134
-\beamer@frametextheight=\dimen168
+\beamer@frametextheight=\dimen165
 \c@subsectionslide=\count135
 \beamer@frametopskip=\skip45
 \beamer@framebottomskip=\skip46
 \beamer@frametopskipautobreak=\skip47
 \beamer@framebottomskipautobreak=\skip48
-\beamer@envbody=\toks27
-\framewidth=\dimen169
+\beamer@envbody=\toks24
+\framewidth=\dimen166
 \c@framenumber=\count136
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
-Package: beamerbaseverbatim 2015/01/05  (rcs-revision 431510bb5890)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseverbatim.sty
+Package: beamerbaseverbatim 2012/08/30  (rcs-revision dfdb135076b3)
 \beamer@verbatimfileout=\write4
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseframesize.sty
 Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
 \beamer@splitbox=\box43
 \beamer@autobreakcount=\count137
-\beamer@autobreaklastheight=\dimen170
-\beamer@frametitletoks=\toks28
-\beamer@framesubtitletoks=\toks29
+\beamer@autobreaklastheight=\dimen167
+\beamer@frametitletoks=\toks25
+\beamer@framesubtitletoks=\toks26
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
-Package: beamerbaseframecomponents 2013/10/18  (rcs-revision 5cf6c5555a45)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseframecomponents.sty
+Package: beamerbaseframecomponents 2012/09/13  (rcs-revision dcd846607320)
 \beamer@footins=\box44
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
-Package: beamerbasecolor 2015/02/21  (rcs-revision d944b04ee2d5)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasecolor.sty
+Package: beamerbasecolor 2010/06/06  (rcs-revision d1a9b48be06d)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
-Package: beamerbasenotes 2012/12/19  (rcs-revision 1686da3db3c9)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasenotes.sty
+Package: beamerbasenotes 2010/05/01  (rcs-revision efa082c6111d)
 \beamer@frameboxcopy=\box45
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty
-Package: beamerbasetoc 2015/03/08  (rcs-revision 7270298bbaae)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetoc.sty
+Package: beamerbasetoc 2012/10/02  (rcs-revision 5ed0f4010e8a)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetemplates.sty
 Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
-\beamer@sbttoks=\toks30
+\beamer@sbttoks=\toks27
 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
-Package: beamerbaseauxtemplates 2014/06/30  (rcs-revision 580088513a67)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseauxtemplates.sty
+Package: beamerbaseauxtemplates 2012/05/01  (rcs-revision 67c48b3b652d)
 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseboxes.sty
 Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
 \bmb@box=\box46
 \bmb@colorbox=\box47
 \bmb@boxshadow=\box48
 \bmb@boxshadowball=\box49
 \bmb@boxshadowballlarge=\box50
-\bmb@temp=\dimen171
-\bmb@dima=\dimen172
-\bmb@dimb=\dimen173
-\bmb@prevheight=\dimen174
+\bmb@temp=\dimen168
+\bmb@dima=\dimen169
+\bmb@dimb=\dimen170
+\bmb@prevheight=\dimen171
 )
-\beamer@blockheadheight=\dimen175
+\beamer@blockheadheight=\dimen172
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
-Package: beamerbaselocalstructure 2014/09/10  (rcs-revision 393f6dcff371)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaselocalstructure.sty
+Package: beamerbaselocalstructure 2012/11/13  (rcs-revision ddfba79dac19)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks31
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks28
 )
 \c@figure=\count138
 \c@table=\count139
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
-Package: beamerbasenavigation 2015/02/27  (rcs-revision 923f4bf87efa)
-\beamer@section@min@dim=\dimen176
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasenavigation.sty
+Package: beamerbasenavigation 2012/04/03  (rcs-revision 42a0f21a412d)
+\beamer@section@min@dim=\dimen173
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetheorems.sty
 Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/03/03 v2.15a AMS math features
+Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
+Package: amstext 2000/06/29 v2.01
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks32
-\ex@=\dimen177
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks29
+\ex@=\dimen174
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen178
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen175
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count140
-LaTeX Info: Redefining \frac on input line 199.
+LaTeX Info: Redefining \frac on input line 210.
 \uproot@=\count141
 \leftroot@=\count142
-LaTeX Info: Redefining \overline on input line 297.
+LaTeX Info: Redefining \overline on input line 306.
 \classnum@=\count143
 \DOTSCASE@=\count144
-LaTeX Info: Redefining \ldots on input line 394.
-LaTeX Info: Redefining \dots on input line 397.
-LaTeX Info: Redefining \cdots on input line 518.
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box51
 \strutbox@=\box52
-\big@size=\dimen179
-LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\big@size=\dimen176
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count145
 \c@MaxMatrixCols=\count146
 \dotsspace@=\muskip11
 \c@parentequation=\count147
 \dspbrk@lvl=\count148
-\tag@help=\toks33
+\tag@help=\toks30
 \row@=\count149
 \column@=\count150
 \maxfields@=\count151
-\andhelp@=\toks34
-\eqnshift@=\dimen180
-\alignsep@=\dimen181
-\tagshift@=\dimen182
-\tagwidth@=\dimen183
-\totwidth@=\dimen184
-\lineht@=\dimen185
-\@envbody=\toks35
+\andhelp@=\toks31
+\eqnshift@=\dimen177
+\alignsep@=\dimen178
+\tagshift@=\dimen179
+\tagwidth@=\dimen180
+\totwidth@=\dimen181
+\lineht@=\dimen182
+\@envbody=\toks32
 \multlinegap=\skip52
 \multlinetaggap=\skip53
-\mathdisplay@stack=\toks36
-LaTeX Info: Redefining \[ on input line 2735.
-LaTeX Info: Redefining \] on input line 2736.
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks37
-\thm@bodyfont=\toks38
-\thm@headfont=\toks39
-\thm@notefont=\toks40
-\thm@headpunct=\toks41
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks34
+\thm@bodyfont=\toks35
+\thm@headfont=\toks36
+\thm@notefont=\toks37
+\thm@headpunct=\toks38
 \thm@preskip=\skip54
 \thm@postskip=\skip55
 \thm@headsep=\skip56
-\dth@everypar=\toks42
+\dth@everypar=\toks39
 )
 \c@theorem=\count152
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasethemes.sty
 Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemedefault
-.sty
+(/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemedefault.sty
 Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/font/beamerfontthemedefa
-ult.sty
-Package: beamerfontthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+(/usr/share/texmf/tex/latex/beamer/base/themes/font/beamerfontthemedefault.sty
+Package: beamerfontthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemede
-fault.sty
-Package: beamercolorthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemedefault.st
+y
+Package: beamercolorthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemede
-fault.sty
-Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
-\beamer@dima=\dimen186
-\beamer@dimb=\dimen187
+(/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemedefault.st
+y
+Package: beamerinnerthemedefault 2012/05/01  (rcs-revision 67c48b3b652d)
+\beamer@dima=\dimen183
+\beamer@dimb=\dimen184
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemede
-fault.sty
-Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemedefault.st
+y
+Package: beamerouterthemedefault 2012/10/02  (rcs-revision 5ed0f4010e8a)
 ))) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks43
-\inpenc@posthook=\toks44
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks40
+\inpenc@posthook=\toks41
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00BB (decimal 187)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C0 (decimal 192)
@@ -778,94 +741,50 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00FD (decimal 253)
    defining Unicode char U+00FE (decimal 254)
    defining Unicode char U+00FF (decimal 255)
-   defining Unicode char U+0100 (decimal 256)
-   defining Unicode char U+0101 (decimal 257)
    defining Unicode char U+0102 (decimal 258)
    defining Unicode char U+0103 (decimal 259)
    defining Unicode char U+0104 (decimal 260)
    defining Unicode char U+0105 (decimal 261)
    defining Unicode char U+0106 (decimal 262)
    defining Unicode char U+0107 (decimal 263)
-   defining Unicode char U+0108 (decimal 264)
-   defining Unicode char U+0109 (decimal 265)
-   defining Unicode char U+010A (decimal 266)
-   defining Unicode char U+010B (decimal 267)
    defining Unicode char U+010C (decimal 268)
    defining Unicode char U+010D (decimal 269)
    defining Unicode char U+010E (decimal 270)
    defining Unicode char U+010F (decimal 271)
    defining Unicode char U+0110 (decimal 272)
    defining Unicode char U+0111 (decimal 273)
-   defining Unicode char U+0112 (decimal 274)
-   defining Unicode char U+0113 (decimal 275)
-   defining Unicode char U+0114 (decimal 276)
-   defining Unicode char U+0115 (decimal 277)
-   defining Unicode char U+0116 (decimal 278)
-   defining Unicode char U+0117 (decimal 279)
    defining Unicode char U+0118 (decimal 280)
    defining Unicode char U+0119 (decimal 281)
    defining Unicode char U+011A (decimal 282)
    defining Unicode char U+011B (decimal 283)
-   defining Unicode char U+011C (decimal 284)
-   defining Unicode char U+011D (decimal 285)
    defining Unicode char U+011E (decimal 286)
    defining Unicode char U+011F (decimal 287)
-   defining Unicode char U+0120 (decimal 288)
-   defining Unicode char U+0121 (decimal 289)
-   defining Unicode char U+0122 (decimal 290)
-   defining Unicode char U+0123 (decimal 291)
-   defining Unicode char U+0124 (decimal 292)
-   defining Unicode char U+0125 (decimal 293)
-   defining Unicode char U+0128 (decimal 296)
-   defining Unicode char U+0129 (decimal 297)
-   defining Unicode char U+012A (decimal 298)
-   defining Unicode char U+012B (decimal 299)
-   defining Unicode char U+012C (decimal 300)
-   defining Unicode char U+012D (decimal 301)
-   defining Unicode char U+012E (decimal 302)
-   defining Unicode char U+012F (decimal 303)
    defining Unicode char U+0130 (decimal 304)
    defining Unicode char U+0131 (decimal 305)
    defining Unicode char U+0132 (decimal 306)
    defining Unicode char U+0133 (decimal 307)
-   defining Unicode char U+0134 (decimal 308)
-   defining Unicode char U+0135 (decimal 309)
-   defining Unicode char U+0136 (decimal 310)
-   defining Unicode char U+0137 (decimal 311)
    defining Unicode char U+0139 (decimal 313)
    defining Unicode char U+013A (decimal 314)
-   defining Unicode char U+013B (decimal 315)
-   defining Unicode char U+013C (decimal 316)
    defining Unicode char U+013D (decimal 317)
    defining Unicode char U+013E (decimal 318)
    defining Unicode char U+0141 (decimal 321)
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0143 (decimal 323)
    defining Unicode char U+0144 (decimal 324)
-   defining Unicode char U+0145 (decimal 325)
-   defining Unicode char U+0146 (decimal 326)
    defining Unicode char U+0147 (decimal 327)
    defining Unicode char U+0148 (decimal 328)
    defining Unicode char U+014A (decimal 330)
    defining Unicode char U+014B (decimal 331)
-   defining Unicode char U+014C (decimal 332)
-   defining Unicode char U+014D (decimal 333)
-   defining Unicode char U+014E (decimal 334)
-   defining Unicode char U+014F (decimal 335)
    defining Unicode char U+0150 (decimal 336)
    defining Unicode char U+0151 (decimal 337)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
    defining Unicode char U+0154 (decimal 340)
    defining Unicode char U+0155 (decimal 341)
-   defining Unicode char U+0156 (decimal 342)
-   defining Unicode char U+0157 (decimal 343)
    defining Unicode char U+0158 (decimal 344)
    defining Unicode char U+0159 (decimal 345)
    defining Unicode char U+015A (decimal 346)
    defining Unicode char U+015B (decimal 347)
-   defining Unicode char U+015C (decimal 348)
-   defining Unicode char U+015D (decimal 349)
    defining Unicode char U+015E (decimal 350)
    defining Unicode char U+015F (decimal 351)
    defining Unicode char U+0160 (decimal 352)
@@ -874,22 +793,10 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+0163 (decimal 355)
    defining Unicode char U+0164 (decimal 356)
    defining Unicode char U+0165 (decimal 357)
-   defining Unicode char U+0168 (decimal 360)
-   defining Unicode char U+0169 (decimal 361)
-   defining Unicode char U+016A (decimal 362)
-   defining Unicode char U+016B (decimal 363)
-   defining Unicode char U+016C (decimal 364)
-   defining Unicode char U+016D (decimal 365)
    defining Unicode char U+016E (decimal 366)
    defining Unicode char U+016F (decimal 367)
    defining Unicode char U+0170 (decimal 368)
    defining Unicode char U+0171 (decimal 369)
-   defining Unicode char U+0172 (decimal 370)
-   defining Unicode char U+0173 (decimal 371)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
    defining Unicode char U+0178 (decimal 376)
    defining Unicode char U+0179 (decimal 377)
    defining Unicode char U+017A (decimal 378)
@@ -897,31 +804,6 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+017C (decimal 380)
    defining Unicode char U+017D (decimal 381)
    defining Unicode char U+017E (decimal 382)
-   defining Unicode char U+01CD (decimal 461)
-   defining Unicode char U+01CE (decimal 462)
-   defining Unicode char U+01CF (decimal 463)
-   defining Unicode char U+01D0 (decimal 464)
-   defining Unicode char U+01D1 (decimal 465)
-   defining Unicode char U+01D2 (decimal 466)
-   defining Unicode char U+01D3 (decimal 467)
-   defining Unicode char U+01D4 (decimal 468)
-   defining Unicode char U+01E2 (decimal 482)
-   defining Unicode char U+01E3 (decimal 483)
-   defining Unicode char U+01E6 (decimal 486)
-   defining Unicode char U+01E7 (decimal 487)
-   defining Unicode char U+01E8 (decimal 488)
-   defining Unicode char U+01E9 (decimal 489)
-   defining Unicode char U+01EA (decimal 490)
-   defining Unicode char U+01EB (decimal 491)
-   defining Unicode char U+01F0 (decimal 496)
-   defining Unicode char U+01F4 (decimal 500)
-   defining Unicode char U+01F5 (decimal 501)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+01E02 (decimal 7682)
-   defining Unicode char U+01E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
@@ -941,11 +823,9 @@ Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00B8 (decimal 184)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C5 (decimal 197)
@@ -963,14 +843,6 @@ File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
    defining Unicode char U+2018 (decimal 8216)
@@ -982,7 +854,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -1013,24 +885,23 @@ Now handling font encoding PD1 ...
     Email: zhuhan@neumann.une.edu.au
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \c@tracingmulticols=\count158
 \mult@box=\box56
-\multicol@leftmargin=\dimen191
+\multicol@leftmargin=\dimen188
 \c@unbalance=\count159
 \c@collectmore=\count160
 \doublecol@number=\count161
 \multicoltolerance=\count162
 \multicolpretolerance=\count163
-\full@width=\dimen192
-\page@free=\dimen193
-\premulticols=\dimen194
-\postmulticols=\dimen195
+\full@width=\dimen189
+\page@free=\dimen190
+\premulticols=\dimen191
+\postmulticols=\dimen192
 \multicolsep=\skip57
 \multicolbaselineskip=\skip58
 \partial@page=\box57
 \last@line=\box58
-\maxbalancingoverflow=\dimen196
 \mult@rightbox=\box59
 \mult@grightbox=\box60
 \mult@gfirstbox=\box61
@@ -1054,20 +925,20 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \@tempa=\box79
 \c@columnbadness=\count164
 \c@finalcolumnbadness=\count165
-\last@try=\dimen197
-\multicolovershoot=\dimen198
-\multicolundershoot=\dimen199
+\last@try=\dimen193
+\multicolovershoot=\dimen194
+\multicolundershoot=\dimen195
 \mult@nat@firstbox=\box80
 \colbreak@box=\box81
-\mc@col@check@num=\count166
+\multicol@sort@counter=\count166
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 332.
-Package: cite 2015/02/27  v 5.5
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
 )
 (/usr/share/texlive/texmf-dist/tex/latex/minted/minted.sty
-Package: minted 2015/09/09 v2.1 Yet another Pygments shim for LaTeX
+Package: minted 2011/09/17 v1.7 Yet another Pygments shim for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
@@ -1083,24 +954,24 @@ Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix
 ) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count170
-\float@exts=\toks57
+\float@exts=\toks54
 \float@box=\box83
-\@float@everytoks=\toks58
+\@float@everytoks=\toks55
 \@floatcapt=\box84
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count171
 \calc@Bcount=\count172
-\calc@Adimen=\dimen256
-\calc@Bdimen=\dimen257
+\calc@Adimen=\dimen196
+\calc@Bdimen=\dimen197
 \calc@Askip=\skip59
 \calc@Bskip=\skip60
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count173
 \calc@Cskip=\skip61
 )
@@ -1115,85 +986,40 @@ runsystem(uname -s > "todo.w18")...executed.
  (./todo.w18)
 runsystem(rm -- "todo.w18")...executed.
 
-) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count174
 )
-(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
-(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
-\@xs@message=\write6
-\integerpart=\count175
-\decimalpart=\count176
+\minted@bgbox=\box85
+\minted@code=\write6
+\@float@every@listing=\toks56
+\c@listing=\count174
 )
-Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
-Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count177
-\output=\toks59
-\linenoprevgraf=\count178
-\linenumbersep=\dimen258
-\linenumberwidth=\dimen259
-\c@linenumber=\count179
-\c@pagewiselinenumber=\count180
-\c@LN@truepage=\count181
-\c@internallinenumber=\count182
-\c@internallinenumbers=\count183
-\quotelinenumbersep=\dimen260
-\bframerule=\dimen261
-\bframesep=\dimen262
-\bframebox=\box85
-LaTeX Info: Redefining \\ on input line 3056.
-)
-\minted@appexistsfile=\read6
-\FV@BreakIndent=\dimen263
-\FV@BreakSymbolSepLeft=\dimen264
-\FV@BreakSymbolSepRight=\dimen265
-\FV@BreakSymbolIndentLeft=\dimen266
-\FV@BreakSymbolIndentRight=\dimen267
-\c@FancyVerbLineBreakLast=\count184
-\FV@LineBox=\box86
-\FV@LineIndentBox=\box87
-\minted@bgbox=\box88
-\minted@code=\write7
-\c@minted@FancyVerbLineTemp=\count185
-\@float@every@listing=\toks60
-\c@listing=\count186
-)
-runsystem(mkdir -p "_minted-todo")...executed.
+runsystem(which pygmentize && touch todo.aex)...executed.
 
+runsystem(rm todo.aex)...executed.
 
-(./_minted-todo/default.pygstyle)
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeWarsaw.
-sty
+ (/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemeWarsaw.sty
 Package: beamerthemeWarsaw 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemero
-unded.sty
+(/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemerounded.st
+y
 Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemesh
-adow.sty
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemeshadow.sty
 Package: beamerouterthemeshadow 2010/06/17  (rcs-revision d02a7cf4d8ae)
-
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemesp
-lit.sty
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemesplit.sty
 Package: beamerouterthemesplit 2012/10/16  (rcs-revision 51a8c72084af)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemeor
-chid.sty
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemeorchid.sty
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemewh
-ale.sty
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemewhale.sty
 Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemese
-ahorse.sty
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemeseahorse.s
+ty
 Package: beamercolorthemeseahorse 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemere
-ctangles.sty
+(/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemerectangles
+.sty
 Package: beamerinnerthemerectangles 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
 
@@ -1207,10 +1033,6 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 15.
-
-runsystem(which "pygmentize" && touch "todo.aex")...executed.
-
-runsystem(rm "todo.aex")...executed.
 
 (./todo.aux)
 \openout1 = `todo.aux'.
@@ -1266,17 +1088,17 @@ LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count187
-\scratchdimen=\dimen268
-\scratchbox=\box89
-\nofMPsegments=\count188
-\nofMParguments=\count189
-\everyMPshowfont=\toks61
-\MPscratchCnt=\count190
-\MPscratchDim=\dimen269
-\MPnumerator=\count191
-\makeMPintoPDFobject=\count192
-\everyMPtoPDFconversion=\toks62
+\scratchcounter=\count175
+\scratchdimen=\dimen198
+\scratchbox=\box86
+\nofMPsegments=\count176
+\nofMParguments=\count177
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count178
+\MPscratchDim=\dimen199
+\MPnumerator=\count179
+\makeMPintoPDFobject=\count180
+\everyMPtoPDFconversion=\toks58
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1293,7 +1115,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box90
+\AtBeginShipoutBox=\box87
 Package hyperref Info: Link coloring OFF on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1302,15 +1124,15 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count193
+\c@section@level=\count181
 )
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
 
 (./todo.out) (./todo.out)
-\@outlinefile=\write8
-\openout8 = `todo.out'.
+\@outlinefile=\write7
+\openout7 = `todo.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 20.
@@ -1355,33 +1177,35 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 20.
 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
-ic-dictionary/translator-basic-dictionary-English.dict
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-basic-dicti
+onary/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bib
-liography-dictionary/translator-bibliography-dictionary-English.dict
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-bibliograph
+y-dictionary/translator-bibliography-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-env
-ironment-dictionary/translator-environment-dictionary-English.dict
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-environment
+-dictionary/translator-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-mon
-ths-dictionary/translator-months-dictionary-English.dict
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-months-dict
+ionary/translator-months-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-num
-bers-dictionary/translator-numbers-dictionary-English.dict
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-numbers-dic
+tionary/translator-numbers-dictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-the
-orem-dictionary/translator-theorem-dictionary-English.dict
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-theorem-dic
+tionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 LaTeX Info: Redefining \includegraphics on input line 20.
+runsystem(pygmentize -S default -f latex > todo.pyg)...executed.
 
-(./_minted-todo/default-pyg-prefix.pygstyle) (./todo.nav) [1
+ (./todo.pyg) (./todo.nav)
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./todo.toc)
 
@@ -1390,7 +1214,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 [2
 
-] <./Listas/lista_ordenada.png, id=200, 2050.66125pt x 987.69pt>
+] <./Listas/lista_ordenada.png, id=199, 2050.66125pt x 987.69pt>
 File: ./Listas/lista_ordenada.png Graphic file (type png)
 
 <use ./Listas/lista_ordenada.png>
@@ -1402,20 +1226,20 @@ Overfull \hbox (0.29605pt too wide) in paragraph at lines 43--43
  []
 
 
-Overfull \vbox (13.5628pt too high) detected at line 43
+Overfull \vbox (3.9628pt too high) detected at line 43
  []
 
 [3
 
  <./Listas/lista_ordenada.png>]
-<./Listas/elemento_nodo.png, id=238, 344.28625pt x 224.84pt>
+<./Listas/elemento_nodo.png, id=237, 344.28625pt x 224.84pt>
 File: ./Listas/elemento_nodo.png Graphic file (type png)
 
 <use ./Listas/elemento_nodo.png>
 Package pdftex.def Info: ./Listas/elemento_nodo.png used on input line 64.
 (pdftex.def)             Requested size: 103.28667pt x 67.45251pt.
 
-<./Listas/elemento_cabeza.png, id=239, 270.00874pt x 153.57375pt>
+<./Listas/elemento_cabeza.png, id=238, 270.00874pt x 153.57375pt>
 File: ./Listas/elemento_cabeza.png Graphic file (type png)
 
 <use ./Listas/elemento_cabeza.png>
@@ -1424,356 +1248,456 @@ Package pdftex.def Info: ./Listas/elemento_cabeza.png used on input line 64.
  [4
 
  <./Listas/elemento_nodo.png> <./Listas/elemento_cabeza.png>]
-<./Listas/lista_insertar_cabeza_1.png, id=276, 1258.7025pt x 576.1525pt>
+\openout4 = `todo.vrb'.
+
+ (./todo.vrb
+\openout5 = `todo.pyg'.
+
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
+
+ (./todo.out.pyg
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 2.
+)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+) [5
+
+]
+\openout4 = `todo.vrb'.
+
+ (./todo.vrb
+\openout5 = `todo.pyg'.
+
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
+
+
+(./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+) [6
+
+]
+<./Listas/lista_insertar_cabeza_1.png, id=349, 1258.7025pt x 576.1525pt>
 File: ./Listas/lista_insertar_cabeza_1.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_cabeza_1.png>
 Package pdftex.def Info: ./Listas/lista_insertar_cabeza_1.png used on input lin
-e 77.
+e 119.
 (pdftex.def)             Requested size: 251.73604pt x 115.22845pt.
- [5
+ [7
 
  <./Listas/lista_insertar_cabeza_1.png>]
-<./Listas/lista_insertar_cabeza_2.png, id=315, 1258.7025pt x 576.1525pt>
+<./Listas/lista_insertar_cabeza_2.png, id=388, 1258.7025pt x 576.1525pt>
 File: ./Listas/lista_insertar_cabeza_2.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_cabeza_2.png>
 Package pdftex.def Info: ./Listas/lista_insertar_cabeza_2.png used on input lin
-e 89.
+e 131.
 (pdftex.def)             Requested size: 251.73604pt x 115.22845pt.
- [6
+ [8
 
  <./Listas/lista_insertar_cabeza_2.png>]
-<./Listas/lista_insertar_cabeza_3.png, id=352, 1258.7025pt x 576.1525pt>
+<./Listas/lista_insertar_cabeza_3.png, id=426, 1258.7025pt x 576.1525pt>
 File: ./Listas/lista_insertar_cabeza_3.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_cabeza_3.png>
 Package pdftex.def Info: ./Listas/lista_insertar_cabeza_3.png used on input lin
-e 99.
+e 141.
 (pdftex.def)             Requested size: 251.73604pt x 115.22845pt.
- [7
+ [9
 
  <./Listas/lista_insertar_cabeza_3.png>] <./Listas/lista_insertar_caso1_1.png, 
-id=390, 1971.365pt x 1017.8025pt>
+id=463, 1971.365pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso1_1.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso1_1.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso1_1.png used on input line
- 108.
+ 150.
 (pdftex.def)             Requested size: 295.69199pt x 152.66379pt.
- [8
+ [10
 
  <./Listas/lista_insertar_caso1_1.png>]
-<./Listas/lista_insertar_caso1_2.png, id=428, 1970.36125pt x 1016.79875pt>
+<./Listas/lista_insertar_caso1_2.png, id=500, 1970.36125pt x 1016.79875pt>
 File: ./Listas/lista_insertar_caso1_2.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso1_2.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso1_2.png used on input line
- 114.
+ 156.
 (pdftex.def)             Requested size: 295.54144pt x 152.51323pt.
- [9
+ [11
 
  <./Listas/lista_insertar_caso1_2.png>]
-<./Listas/lista_insertar_caso1_3.png, id=465, 1970.36125pt x 1016.79875pt>
+<./Listas/lista_insertar_caso1_3.png, id=538, 1970.36125pt x 1016.79875pt>
 File: ./Listas/lista_insertar_caso1_3.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso1_3.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso1_3.png used on input line
- 120.
+ 162.
 (pdftex.def)             Requested size: 295.54144pt x 152.51323pt.
- [10
+ [12
 
  <./Listas/lista_insertar_caso1_3.png>]
-<./Listas/lista_insertar_caso1_4.png, id=502, 1970.36125pt x 1016.79875pt>
+<./Listas/lista_insertar_caso1_4.png, id=575, 1970.36125pt x 1016.79875pt>
 File: ./Listas/lista_insertar_caso1_4.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso1_4.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso1_4.png used on input line
- 125.
+ 167.
 (pdftex.def)             Requested size: 295.54144pt x 152.51323pt.
- [11
+ [13
 
  <./Listas/lista_insertar_caso1_4.png>]
-<./Listas/lista_insertar_caso1_5.png, id=540, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso1_5.png, id=613, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso1_5.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso1_5.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso1_5.png used on input line
- 133.
+ 175.
 (pdftex.def)             Requested size: 295.54144pt x 152.66379pt.
- [12
+ [14
 
  <./Listas/lista_insertar_caso1_5.png>]
-<./Listas/lista_insertar_caso2_1.png, id=577, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_1.png, id=651, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_1.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_1.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso2_1.png used on input line
- 142.
+ 184.
 (pdftex.def)             Requested size: 295.54144pt x 152.66379pt.
- [13
+ [15
 
  <./Listas/lista_insertar_caso2_1.png>]
-<./Listas/lista_insertar_caso2_2.png, id=615, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_2.png, id=688, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_2.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_2.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso2_2.png used on input line
- 148.
+ 190.
 (pdftex.def)             Requested size: 295.54144pt x 152.66379pt.
- [14
+ [16
 
  <./Listas/lista_insertar_caso2_2.png>]
-<./Listas/lista_insertar_caso2_3.png, id=653, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_3.png, id=725, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_3.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_3.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso2_3.png used on input line
- 154.
+ 196.
 (pdftex.def)             Requested size: 295.54144pt x 152.66379pt.
- [15
+ [17
 
  <./Listas/lista_insertar_caso2_3.png>]
-<./Listas/lista_insertar_caso2_4.png, id=690, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_4.png, id=763, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_4.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_4.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso2_4.png used on input line
- 161.
+ 203.
 (pdftex.def)             Requested size: 295.54144pt x 152.66379pt.
- [16
+ [18
 
  <./Listas/lista_insertar_caso2_4.png>]
-<./Listas/lista_insertar_caso2_5.png, id=727, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_5.png, id=800, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_5.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_5.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso2_5.png used on input line
- 168.
+ 210.
 (pdftex.def)             Requested size: 295.54144pt x 152.66379pt.
- [17
+ [19
 
  <./Listas/lista_insertar_caso2_5.png>]
-<./Listas/lista_insertar_caso2_6.png, id=765, 1970.36125pt x 1017.8025pt>
+<./Listas/lista_insertar_caso2_6.png, id=838, 1970.36125pt x 1017.8025pt>
 File: ./Listas/lista_insertar_caso2_6.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso2_6.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso2_6.png used on input line
- 175.
+ 217.
 (pdftex.def)             Requested size: 295.54144pt x 152.66379pt.
- [18
+ [20
 
  <./Listas/lista_insertar_caso2_6.png>]
-<./Listas/lista_insertar_caso3_1.png, id=802, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_1.png, id=876, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_1.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_1.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso3_1.png used on input line
- 182.
+ 224.
 (pdftex.def)             Requested size: 291.02475pt x 161.54659pt.
- [19
+ [21
 
  <./Listas/lista_insertar_caso3_1.png>]
-<./Listas/lista_insertar_caso3_2.png, id=841, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_2.png, id=913, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_2.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_2.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso3_2.png used on input line
- 188.
+ 230.
 (pdftex.def)             Requested size: 291.02475pt x 161.54659pt.
- [20
+ [22
 
  <./Listas/lista_insertar_caso3_2.png>]
-<./Listas/lista_insertar_caso3_3.png, id=878, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_3.png, id=951, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_3.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_3.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso3_3.png used on input line
- 194.
+ 236.
 (pdftex.def)             Requested size: 291.02475pt x 161.54659pt.
- [21
+ [23
 
  <./Listas/lista_insertar_caso3_3.png>]
-<./Listas/lista_insertar_caso3_4.png, id=915, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_4.png, id=987, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_4.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_4.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso3_4.png used on input line
- 201.
+ 243.
 (pdftex.def)             Requested size: 291.02475pt x 161.54659pt.
- [22
+ [24
 
  <./Listas/lista_insertar_caso3_4.png>]
-<./Listas/lista_insertar_caso3_5.png, id=953, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_5.png, id=1023, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_5.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_5.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso3_5.png used on input line
- 208.
+ 250.
 (pdftex.def)             Requested size: 291.02475pt x 161.54659pt.
- [23
+ [25
 
  <./Listas/lista_insertar_caso3_5.png>]
-<./Listas/lista_insertar_caso3_6.png, id=989, 1940.24875pt x 1077.02374pt>
+<./Listas/lista_insertar_caso3_6.png, id=1062, 1940.24875pt x 1077.02374pt>
 File: ./Listas/lista_insertar_caso3_6.png Graphic file (type png)
 
 <use ./Listas/lista_insertar_caso3_6.png>
 Package pdftex.def Info: ./Listas/lista_insertar_caso3_6.png used on input line
- 215.
+ 257.
 (pdftex.def)             Requested size: 291.02475pt x 161.54659pt.
- [24
+ [26
 
  <./Listas/lista_insertar_caso3_6.png>]
-<./Listas/lista_eliminar_caso1_1.png, id=1025, 1940.24875pt x 1078.0275pt>
+\openout4 = `todo.vrb'.
+
+ (./todo.vrb
+\openout5 = `todo.pyg'.
+
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
+
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+) [27
+
+]
+\openout4 = `todo.vrb'.
+
+ (./todo.vrb
+\openout5 = `todo.pyg'.
+
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
+
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+) [28
+
+]
+<./Listas/lista_eliminar_caso1_1.png, id=1170, 1940.24875pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso1_1.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso1_1.png>
 Package pdftex.def Info: ./Listas/lista_eliminar_caso1_1.png used on input line
- 224.
+ 305.
 (pdftex.def)             Requested size: 291.02475pt x 161.69714pt.
- [25
+ [29
 
  <./Listas/lista_eliminar_caso1_1.png>]
-<./Listas/lista_eliminar_caso1_2.png, id=1064, 1940.24875pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso1_2.png, id=1208, 1940.24875pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso1_2.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso1_2.png>
 Package pdftex.def Info: ./Listas/lista_eliminar_caso1_2.png used on input line
- 231.
+ 312.
 (pdftex.def)             Requested size: 291.02475pt x 161.69714pt.
- [26
+ [30
 
  <./Listas/lista_eliminar_caso1_2.png>]
-<./Listas/lista_eliminar_caso1_3.png, id=1101, 1940.24875pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso1_3.png, id=1245, 1940.24875pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso1_3.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso1_3.png>
 Package pdftex.def Info: ./Listas/lista_eliminar_caso1_3.png used on input line
- 237.
+ 318.
 (pdftex.def)             Requested size: 291.02475pt x 161.69714pt.
- [27
+ [31
 
  <./Listas/lista_eliminar_caso1_3.png>]
-<./Listas/lista_eliminar_caso1_4.png, id=1138, 1940.24875pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso1_4.png, id=1284, 1940.24875pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso1_4.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso1_4.png>
 Package pdftex.def Info: ./Listas/lista_eliminar_caso1_4.png used on input line
- 243.
+ 324.
 (pdftex.def)             Requested size: 291.02475pt x 161.69714pt.
- [28
+ [32
 
  <./Listas/lista_eliminar_caso1_4.png>]
-<./Listas/lista_eliminar_caso1_5.png, id=1176, 1941.2525pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso1_5.png, id=1321, 1941.2525pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso1_5.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso1_5.png>
 Package pdftex.def Info: ./Listas/lista_eliminar_caso1_5.png used on input line
- 249.
+ 330.
 (pdftex.def)             Requested size: 291.17531pt x 161.69714pt.
- [29
+ [33
 
  <./Listas/lista_eliminar_caso1_5.png>]
-<./Listas/lista_eliminar_caso2_1.png, id=1213, 1941.2525pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso2_1.png, id=1357, 1941.2525pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso2_1.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso2_1.png>
 Package pdftex.def Info: ./Listas/lista_eliminar_caso2_1.png used on input line
- 256.
+ 337.
 (pdftex.def)             Requested size: 291.17531pt x 161.69714pt.
- [30
+ [34
 
  <./Listas/lista_eliminar_caso2_1.png>]
-<./Listas/lista_eliminar_caso2_2.png, id=1250, 1940.24875pt x 1105.12875pt>
+<./Listas/lista_eliminar_caso2_2.png, id=1394, 1940.24875pt x 1105.12875pt>
 File: ./Listas/lista_eliminar_caso2_2.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso2_2.png>
 Package pdftex.def Info: ./Listas/lista_eliminar_caso2_2.png used on input line
- 263.
+ 344.
 (pdftex.def)             Requested size: 291.02475pt x 165.76216pt.
- [31
+ [35
 
  <./Listas/lista_eliminar_caso2_2.png>]
-<./Listas/lista_eliminar_caso2_3.png, id=1289, 1940.24875pt x 1105.12875pt>
+<./Listas/lista_eliminar_caso2_3.png, id=1430, 1940.24875pt x 1105.12875pt>
 File: ./Listas/lista_eliminar_caso2_3.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso2_3.png>
 Package pdftex.def Info: ./Listas/lista_eliminar_caso2_3.png used on input line
- 269.
+ 350.
 (pdftex.def)             Requested size: 291.02475pt x 165.76216pt.
- [32
+ [36
 
  <./Listas/lista_eliminar_caso2_3.png>]
-<./Listas/lista_eliminar_caso2_4.png, id=1326, 1940.24875pt x 1106.1325pt>
+<./Listas/lista_eliminar_caso2_4.png, id=1467, 1940.24875pt x 1106.1325pt>
 File: ./Listas/lista_eliminar_caso2_4.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso2_4.png>
 Package pdftex.def Info: ./Listas/lista_eliminar_caso2_4.png used on input line
- 275.
+ 356.
 (pdftex.def)             Requested size: 291.02475pt x 165.9127pt.
- [33
+ [37
 
  <./Listas/lista_eliminar_caso2_4.png>]
-<./Listas/lista_eliminar_caso2_5.png, id=1362, 1941.2525pt x 1078.0275pt>
+<./Listas/lista_eliminar_caso2_5.png, id=1505, 1941.2525pt x 1078.0275pt>
 File: ./Listas/lista_eliminar_caso2_5.png Graphic file (type png)
 
 <use ./Listas/lista_eliminar_caso2_5.png>
 Package pdftex.def Info: ./Listas/lista_eliminar_caso2_5.png used on input line
- 281.
+ 362.
 (pdftex.def)             Requested size: 291.17531pt x 161.69714pt.
- [34
+ [38
 
  <./Listas/lista_eliminar_caso2_5.png>]
-<./Listas/lista_circular_simple.png, id=1399, 1940.24875pt x 1078.0275pt>
+\openout4 = `todo.vrb'.
+
+ (./todo.vrb
+\openout5 = `todo.pyg'.
+
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
+
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+) [39
+
+]
+\openout4 = `todo.vrb'.
+
+ (./todo.vrb
+\openout5 = `todo.pyg'.
+
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
+
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+) [40
+
+]
+<./Listas/lista_circular_simple.png, id=1612, 1940.24875pt x 1078.0275pt>
 File: ./Listas/lista_circular_simple.png Graphic file (type png)
 
 <use ./Listas/lista_circular_simple.png>
 Package pdftex.def Info: ./Listas/lista_circular_simple.png used on input line 
-295.
+412.
 (pdftex.def)             Requested size: 291.02475pt x 161.69714pt.
 
-Overfull \vbox (27.11284pt too high) detected at line 295
+Overfull \vbox (17.51283pt too high) detected at line 412
  []
 
-[35
+[41
 
  <./Listas/lista_circular_simple.png>]
-<images/pila.png, id=1432, 229.85875pt x 227.85126pt>
+<images/pila.png, id=1648, 229.85875pt x 227.85126pt>
 File: images/pila.png Graphic file (type png)
  <use images/pila.png>
-Package pdftex.def Info: images/pila.png used on input line 319.
+Package pdftex.def Info: images/pila.png used on input line 436.
 (pdftex.def)             Requested size: 92.1879pt x 91.38225pt.
 
-[36
+[42
 
- <./images/pila.png>] <images/push1.png, id=1471, 360.34625pt x 236.885pt>
+ <./images/pila.png>] <images/push1.png, id=1688, 360.34625pt x 236.885pt>
 File: images/push1.png Graphic file (type png)
 
 <use images/push1.png>
-Package pdftex.def Info: images/push1.png used on input line 342.
+Package pdftex.def Info: images/push1.png used on input line 459.
 (pdftex.def)             Requested size: 138.2795pt x 90.9028pt.
- <images/push2.png, id=1472, 219.82124pt x 199.74625pt>
+ <images/push2.png, id=1689, 219.82124pt x 199.74625pt>
 File: images/push2.png Graphic file (type png)
 
 <use images/push2.png>
-Package pdftex.def Info: images/push2.png used on input line 342.
+Package pdftex.def Info: images/push2.png used on input line 459.
 (pdftex.def)             Requested size: 99.86826pt x 90.74753pt.
- [37
+ [43
 
  <./images/push1.png> <./images/push2.png>]
-<images/pop1.png, id=1512, 219.82124pt x 246.9225pt>
+<images/pop1.png, id=1731, 219.82124pt x 246.9225pt>
 File: images/pop1.png Graphic file (type png)
  <use images/pop1.png>
-Package pdftex.def Info: images/pop1.png used on input line 363.
+Package pdftex.def Info: images/pop1.png used on input line 480.
 (pdftex.def)             Requested size: 122.9164pt x 138.06842pt.
 
-<images/pop2.png, id=1513, 219.82124pt x 149.55875pt>
+<images/pop2.png, id=1732, 219.82124pt x 149.55875pt>
 File: images/pop2.png Graphic file (type png)
  <use images/pop2.png>
-Package pdftex.def Info: images/pop2.png used on input line 363.
+Package pdftex.def Info: images/pop2.png used on input line 480.
 (pdftex.def)             Requested size: 122.9164pt x 83.6268pt.
 
-[38
+[44
 
  <./images/pop1.png> <./images/pop2.png>]
 \openout4 = `todo.vrb'.
@@ -1781,12 +1705,16 @@ Package pdftex.def Info: images/pop2.png used on input line 363.
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
 
-(./_minted-todo/76CA57D306F7BD941C4A850A5FF61B7DDA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 2.
-)) [39
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+)
+[45
 
 ]
 \openout4 = `todo.vrb'.
@@ -1794,48 +1722,54 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
 
-(./_minted-todo/DD3B5DD0F43D80A22EC1925BC460FAE4DA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex))
-Overfull \vbox (0.6575pt too high) detected at line 402
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+)
+Overfull \vbox (0.6575pt too high) detected at line 519
  []
 
-[40
+[46
 
-] <images/push01.png, id=1627, 843.61868pt x 214.56035pt>
+] <images/push01.png, id=1844, 843.61868pt x 214.56035pt>
 File: images/push01.png Graphic file (type png)
 
 <use images/push01.png>
-Package pdftex.def Info: images/push01.png used on input line 413.
+Package pdftex.def Info: images/push01.png used on input line 530.
 (pdftex.def)             Requested size: 307.28987pt x 78.15508pt.
- [41
+ [47
 
  <./images/push01.png>]
-<images/push02.png, id=1666, 843.61868pt x 214.56035pt>
+<images/push02.png, id=1883, 843.61868pt x 214.56035pt>
 File: images/push02.png Graphic file (type png)
 
 <use images/push02.png>
-Package pdftex.def Info: images/push02.png used on input line 423.
+Package pdftex.def Info: images/push02.png used on input line 540.
 (pdftex.def)             Requested size: 307.28987pt x 78.15508pt.
- [42
+ [48
 
  <./images/push02.png>]
-<images/push03.png, id=1704, 843.61868pt x 214.56035pt>
+<images/push03.png, id=1920, 843.61868pt x 214.56035pt>
 File: images/push03.png Graphic file (type png)
 
 <use images/push03.png>
-Package pdftex.def Info: images/push03.png used on input line 433.
+Package pdftex.def Info: images/push03.png used on input line 550.
 (pdftex.def)             Requested size: 307.28987pt x 78.15508pt.
- [43
+ [49
 
  <./images/push03.png>]
-<images/push04.png, id=1744, 843.61868pt x 214.56035pt>
+<images/push04.png, id=1959, 843.61868pt x 214.56035pt>
 File: images/push04.png Graphic file (type png)
 
 <use images/push04.png>
-Package pdftex.def Info: images/push04.png used on input line 444.
+Package pdftex.def Info: images/push04.png used on input line 561.
 (pdftex.def)             Requested size: 307.28987pt x 78.15508pt.
- [44
+ [50
 
  <./images/push04.png>]
 \openout4 = `todo.vrb'.
@@ -1843,26 +1777,32 @@ Package pdftex.def Info: images/push04.png used on input line 444.
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
 
-(./_minted-todo/6367D3A5D1C5907B8BD8C6BA33EA8D3FDA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex)) [45
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
 
-] <images/pop02.png, id=1816, 843.61868pt x 211.18588pt>
+runsystem(rm todo.pyg)...executed.
+
+) [51
+
+] <images/pop02.png, id=2035, 843.61868pt x 211.18588pt>
 File: images/pop02.png Graphic file (type png)
 
 <use images/pop02.png>
-Package pdftex.def Info: images/pop02.png used on input line 473.
+Package pdftex.def Info: images/pop02.png used on input line 590.
 (pdftex.def)             Requested size: 307.28987pt x 76.92592pt.
- [46
+ [52
 
  <./images/pop02.png>]
-<images/pop03.png, id=1855, 843.61868pt x 211.18588pt>
+<images/pop03.png, id=2073, 843.61868pt x 211.18588pt>
 File: images/pop03.png Graphic file (type png)
  <use images/pop03.png>
-Package pdftex.def Info: images/pop03.png used on input line 483.
+Package pdftex.def Info: images/pop03.png used on input line 600.
 (pdftex.def)             Requested size: 307.28987pt x 76.92592pt.
 
-[47
+[53
 
  <./images/pop03.png>]
 \openout4 = `todo.vrb'.
@@ -1870,9 +1810,15 @@ Package pdftex.def Info: images/pop03.png used on input line 483.
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
 
-(./_minted-todo/C57FD28FC6C3EADCE4F27F604377AB62DA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex)) [48
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+) [54
 
 ]
 \openout4 = `todo.vrb'.
@@ -1880,17 +1826,24 @@ B.pygtex)) [48
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
 
-(./_minted-todo/5BDD5284164950627104250A0878BCBADA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex)) [49
 
-] <imagenes/intro.png, id=1965, 715.67375pt x 208.78pt>
+(./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+) [55
+
+] <imagenes/intro.png, id=2184, 715.67375pt x 208.78pt>
 File: imagenes/intro.png Graphic file (type png)
 
 <use imagenes/intro.png>
-Package pdftex.def Info: imagenes/intro.png used on input line 528.
+Package pdftex.def Info: imagenes/intro.png used on input line 645.
 (pdftex.def)             Requested size: 215.10196pt x 62.74916pt.
- [50
+ [56
 
  <./imagenes/intro.png>]
 \openout4 = `todo.vrb'.
@@ -1898,46 +1851,56 @@ Package pdftex.def Info: imagenes/intro.png used on input line 528.
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
 
-(./_minted-todo/3B2123DBB7037AFC7D45590B95339841DA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex)) [51
+
+(./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+) [57
 
 ]
 \openout4 = `todo.vrb'.
 
  (./todo.vrb
+\openout5 = `todo.pyg'.
+
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= ,firstnumber=1,numbersep=3" -o todo.out.pyg todo.pyg)...executed.
+
+ (./todo.out.pyg
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.2 ...inenos=true,firstnumber=1,numbersep=3]{c++}
+l.1 ...1,stepnumber=1, ,firstnumber=1,numbersep=3]
                                                   
 ? 
-\openout5 = `todo.pyg'.
+)
+runsystem(rm todo.out.pyg)...executed.
 
-runsystem(pygmentize -l c++ -f latex -P commandprefix=PYG -F tokenmerge -o "_mi
-nted-todo/447DC61EA30245EB568F944CD3FB7749DA529FD67AEA4DF0CF9FCA4AFA9D2E8B.pygt
-ex" "todo.pyg" )...executed.
+runsystem(rm todo.pyg)...executed.
 
+) [58
 
-(./_minted-todo/447DC61EA30245EB568F944CD3FB7749DA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex)) [52
-
-] <imagenes/1push.png, id=2073, 269.005pt x 215.80624pt>
+] <imagenes/1push.png, id=2292, 269.005pt x 215.80624pt>
 File: imagenes/1push.png Graphic file (type png)
 
 <use imagenes/1push.png>
-Package pdftex.def Info: imagenes/1push.png used on input line 581.
+Package pdftex.def Info: imagenes/1push.png used on input line 698.
 (pdftex.def)             Requested size: 92.1879pt x 73.956pt.
- [53
+ [59
 
  <./imagenes/1push.png>]
-<imagenes/2push.png, id=2111, 449.68pt x 243.91125pt>
+<imagenes/2push.png, id=2330, 449.68pt x 243.91125pt>
 File: imagenes/2push.png Graphic file (type png)
  <use imagenes/2push.png>
-Package pdftex.def Info: imagenes/2push.png used on input line 592.
+Package pdftex.def Info: imagenes/2push.png used on input line 709.
 (pdftex.def)             Requested size: 138.2795pt x 75.00505pt.
 
-[54
+[60
 
  <./imagenes/2push.png>]
 \openout4 = `todo.vrb'.
@@ -1945,26 +1908,33 @@ Package pdftex.def Info: imagenes/2push.png used on input line 592.
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
 
-(./_minted-todo/8D3025FADC71C9E498B54C6FF84C40B3DA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex)) [55
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
 
-] <imagenes/2pop.png, id=2183, 671.50874pt x 223.83624pt>
+runsystem(rm todo.pyg)...executed.
+
+) [61
+
+]
+<imagenes/2pop.png, id=2403, 671.50874pt x 223.83624pt>
 File: imagenes/2pop.png Graphic file (type png)
 
 <use imagenes/2pop.png>
-Package pdftex.def Info: imagenes/2pop.png used on input line 625.
+Package pdftex.def Info: imagenes/2pop.png used on input line 742.
 (pdftex.def)             Requested size: 215.10196pt x 71.70078pt.
- [56
+ [62
 
  <./imagenes/2pop.png>]
-<imagenes/3pop.png, id=2221, 456.70625pt x 229.85875pt>
+<imagenes/3pop.png, id=2440, 456.70625pt x 229.85875pt>
 File: imagenes/3pop.png Graphic file (type png)
 
 <use imagenes/3pop.png>
-Package pdftex.def Info: imagenes/3pop.png used on input line 634.
+Package pdftex.def Info: imagenes/3pop.png used on input line 751.
 (pdftex.def)             Requested size: 153.64493pt x 77.3267pt.
- [57
+ [63
 
  <./imagenes/3pop.png>]
 \openout4 = `todo.vrb'.
@@ -1972,26 +1942,32 @@ Package pdftex.def Info: imagenes/3pop.png used on input line 634.
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
 
-(./_minted-todo/52920BA51534B499ABBAEB8EA6C92006DA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex)) [58
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
 
-] <imagenes/1frent.png, id=2292, 669.50125pt x 223.83624pt>
+runsystem(rm todo.pyg)...executed.
+
+) [64
+
+] <imagenes/1frent.png, id=2512, 669.50125pt x 223.83624pt>
 File: imagenes/1frent.png Graphic file (type png)
 
 <use imagenes/1frent.png>
-Package pdftex.def Info: imagenes/1frent.png used on input line 663.
+Package pdftex.def Info: imagenes/1frent.png used on input line 780.
 (pdftex.def)             Requested size: 215.10196pt x 71.91595pt.
- [59
+ [65
 
  <./imagenes/1frent.png>]
-<imagenes/2frent.png, id=2329, 153.57375pt x 118.4425pt>
+<imagenes/2frent.png, id=2550, 153.57375pt x 118.4425pt>
 File: imagenes/2frent.png Graphic file (type png)
 
 <use imagenes/2frent.png>
-Package pdftex.def Info: imagenes/2frent.png used on input line 673.
+Package pdftex.def Info: imagenes/2frent.png used on input line 790.
 (pdftex.def)             Requested size: 61.45703pt x 47.39784pt.
- [60
+ [66
 
  <./imagenes/2frent.png>]
 \openout4 = `todo.vrb'.
@@ -1999,9 +1975,16 @@ Package pdftex.def Info: imagenes/2frent.png used on input line 673.
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
 
-(./_minted-todo/A6C25B17A6181E4005EA613B0845D8C2DA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex)) [61
+
+(./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
+
+runsystem(rm todo.pyg)...executed.
+
+) [67
 
 ]
 \openout4 = `todo.vrb'.
@@ -2009,61 +1992,104 @@ B.pygtex)) [61
  (./todo.vrb
 \openout5 = `todo.pyg'.
 
+runsystem(pygmentize -l c++ -f latex -F tokenmerge            -P linenos -P "ve
+rboptions= " -o todo.out.pyg todo.pyg)...executed.
 
-(./_minted-todo/97B4DF50783C04D8CDBF71DF8BA248D4DA529FD67AEA4DF0CF9FCA4AFA9D2E8
-B.pygtex)) [62
+ (./todo.out.pyg)
+runsystem(rm todo.out.pyg)...executed.
 
-] [63
+runsystem(rm todo.pyg)...executed.
 
- </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>]
-\tf@nav=\write9
-\openout9 = `todo.nav'.
+) [68
 
-\tf@toc=\write10
-\openout10 = `todo.toc'.
+] [69
 
-\tf@snm=\write11
-\openout11 = `todo.snm'.
+ </usr/share/texmf/tex/latex/beamer/base/art/beamericonarticle.pdf>]
+\tf@nav=\write8
+\openout8 = `todo.nav'.
 
-runsystem(rm "_minted-todo/C943A81822F3BC2DE249E73AC55C58F7DA529FD67AEA4DF0CF9F
-CA4AFA9D2E8B.pygtex")...executed.
+\tf@toc=\write9
+\openout9 = `todo.toc'.
 
-runsystem(rm "todo.pyg")...executed.
+\tf@snm=\write10
+\openout10 = `todo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 719.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 719.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 836.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 836.
  (./todo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 719.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 719.
-Package rerunfilecheck Info: File `todo.out' has not changed.
-(rerunfilecheck)             Checksum: DCDABE190FACF4D0C1F5799DB750D083;1078.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 836.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 836.
 
+
+Package rerunfilecheck Warning: File `todo.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `todo.out':
+(rerunfilecheck)             Before: DCDABE190FACF4D0C1F5799DB750D083;1078
+(rerunfilecheck)             After:  D6CE389D6F62C108BF281279794492A7;1078.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 719.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 836.
  ) 
 Here is how much of TeX's memory you used:
- 20342 strings out of 494953
- 389790 string characters out of 6180977
- 484461 words of memory out of 5000000
- 22906 multiletter control sequences out of 15000+600000
+ 17708 strings out of 495028
+ 324722 string characters out of 6181497
+ 396443 words of memory out of 5000000
+ 20191 multiletter control sequences out of 15000+600000
  7044 words of font info for 26 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 48i,20n,60p,910b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmtt10.pfb>
-Output written on todo.pdf (63 pages, 2950219 bytes).
+ 49i,20n,60p,393b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Outline0.4.4.59} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.4.3.56} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.4.2.53} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.4.1.50} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.5.46} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.4.41} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.3.38} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.2.37} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.1.36} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.2.1.35} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.1.4.25} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.1.3.5} has been referenced but does not ex
+ist, replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmtt10.pfb>
+Output written on todo.pdf (69 pages, 2859468 bytes).
 PDF statistics:
- 2539 PDF objects out of 2984 (max. 8388607)
- 2318 compressed objects within 24 object streams
- 147 named destinations out of 1000 (max. 500000)
+ 2767 PDF objects out of 2984 (max. 8388607)
+ 2538 compressed objects within 26 object streams
+ 170 named destinations out of 1000 (max. 500000)
  485 words of extra memory for PDF output out of 10000 (max. 10000000)
 
