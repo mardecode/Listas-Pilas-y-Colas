@@ -366,22 +366,16 @@ Lista Circular \\
 \frametitle{Implementacion Clase Nodo}
 \begin{minted}[linenos=true]{c++}
 template <class T>
-
 class Nodo
 {
-
 public:
-
 	T           m_dato;
 	Nodo<T> *   m_psiguiente;	
-
 public:
-
 	Nodo(T d){
 		m_psiguiente = 0;
 		m_dato = d;
 	}
-
 };
 \end{minted}
 \end{frame}  
@@ -392,25 +386,18 @@ public:
 \begin{minted}[linenos=true]{c++}
 #include "Nodo.h"
 #include <ostream>
-
 using namespace std;
-
 template <class T>
 class Pila
-{
-public:
+{public:
 	Nodo<T> *   m_phead;
-	
 public:
 	Pila(){
-		m_phead = 0;
-	}
-
+		m_phead = 0;}
 	void push(T);
 	T    pop();
 	T    top();
-	void print(ostream & os);	
-};
+	void print(ostream & os);	};
 \end{minted}
 \end{frame}  
 
@@ -540,6 +527,45 @@ void Pila<T>::print(ostream & os){
        También se le llama estructura FIFO (del inglés First In First Out).
 \end{frame}
 
+\begin{frame}[fragile]
+\frametitle{Implementacion Clase Nodo}
+\begin{minted}[linenos=true]{c++}
+template<class T>
+class Nodo
+{
+public:
+  Nodo(T d){
+    dato = d ;
+    m_psiguiente = 0;
+  };  
+  T           dato;
+  Nodo<T> *   m_psiguiente;
+};
+\end{minted}
+\end{frame}
+
+
+\begin{frame}[fragile]
+\frametitle{Implementacion Clase cola}
+\begin{minted}[linenos=true,firstnumber=1,numbersep=3]{c++}
+#include "Nodo.h"
+template<class T>
+class cola
+{public:
+  Nodo<T> * m_phead;
+  Nodo<T> * m_plast;
+public:
+  cola(){
+    m_phead = m_plast = 0;};
+  void push(T d); // Encolar
+  T pop(); //desencolar
+  T frente(); //top
+  void imprimir();};
+\end{minted}
+\end{frame}
+
+
+
 
 %\section{Operaciones}
  \subsection{Encolar-Push}
@@ -564,6 +590,26 @@ void Pila<T>::print(ostream & os){
       \end{figure}
    
    \end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Implementacion push}
+\begin{minted}[linenos=true]{c++}
+template<class T>
+void cola<T>::push(T d){
+  Nodo<T> * nuevo = new Nodo<T>(d);
+  if (m_phead == 0){
+    m_phead = m_plast = nuevo;
+  }
+  else{
+    m_plast->m_psiguiente = nuevo;
+    m_plast = nuevo;
+  }
+}
+\end{minted}
+\end{frame}
+
+
+
     
 \subsection{Desencolar-Pop}
     \begin{frame}
@@ -586,6 +632,22 @@ void Pila<T>::print(ostream & os){
 	\caption{Actualizar al eliminar}
       \end{figure}
     \end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Implementacion pop}
+\begin{minted}[linenos=true]{c++}
+template<class T>
+T cola<T>::pop(){
+  Nodo<T> * temporal = m_phead;
+  T dato = temporal->dato;
+  m_phead = m_phead->m_psiguiente;
+  delete(temporal);
+  return dato;
+}
+\end{minted}
+\end{frame}
+
+
     
 \subsection{Frente-Front}
     \begin{frame}
@@ -609,6 +671,37 @@ void Pila<T>::print(ostream & os){
     \end{figure}
     
     \end{frame}
+
+
+
+
+\begin{frame}[fragile]
+\frametitle{Implementacion front}
+\begin{minted}[linenos=true]{c++}
+template<class T>
+T cola<T>::frente(){
+  T dato =m_phead->dato;
+  return dato;
+}
+
+\end{minted}
+\end{frame}
+
+
+\begin{frame}[fragile]
+\frametitle{Implementacion print}
+\begin{minted}[linenos=true]{c++}
+template <class T>
+void cola<T>::imprimir(){
+  Nodo<T> * temporal = m_phead;
+  if(!m_phead) return;
+  while(temporal){
+    cout<<temporal->dato<<"->";
+    temporal = temporal->m_psiguiente;
+  }
+}
+\end{minted}
+\end{frame}
 
 
 

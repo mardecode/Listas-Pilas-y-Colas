@@ -14,7 +14,7 @@
 \beamer@subsectionintoc {3}{5}{Pop - Lista}{46}{0}{3}
 \beamer@sectionintoc {4}{Colas}{50}{0}{4}
 \beamer@subsectionintoc {4}{1}{Introducci\IeC {\'o}n}{50}{0}{4}
-\beamer@subsectionintoc {4}{2}{Encolar-Push}{51}{0}{4}
-\beamer@subsectionintoc {4}{3}{Desencolar-Pop}{53}{0}{4}
-\beamer@subsectionintoc {4}{4}{Frente-Front}{55}{0}{4}
-\beamer@sectionintoc {5}{Bibliograf\IeC {\'\i }a}{57}{0}{5}
+\beamer@subsectionintoc {4}{2}{Encolar-Push}{53}{0}{4}
+\beamer@subsectionintoc {4}{3}{Desencolar-Pop}{56}{0}{4}
+\beamer@subsectionintoc {4}{4}{Frente-Front}{59}{0}{4}
+\beamer@sectionintoc {5}{Bibliograf\IeC {\'\i }a}{63}{0}{5}

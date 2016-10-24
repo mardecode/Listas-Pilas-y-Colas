@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{template} \PYG{o}{\PYGZlt{}}\PYG{k}{class} \PYG{n+nc}{T}\PYG{o}{\PYGZgt{}}
+\PYG{k+kt}{void} \PYG{n}{cola}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}::}\PYG{n}{imprimir}\PYG{p}{()\PYGZob{}}
+  \PYG{n}{Nodo}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}} \PYG{o}{*} \PYG{n}{temporal} \PYG{o}{=} \PYG{n}{m\PYGZus{}phead}\PYG{p}{;}
+  \PYG{k}{if}\PYG{p}{(}\PYG{o}{!}\PYG{n}{m\PYGZus{}phead}\PYG{p}{)} \PYG{k}{return}\PYG{p}{;}
+  \PYG{k}{while}\PYG{p}{(}\PYG{n}{temporal}\PYG{p}{)\PYGZob{}}
+    \PYG{n}{cout}\PYG{o}{\PYGZlt{}\PYGZlt{}}\PYG{n}{temporal}\PYG{o}{\PYGZhy{}\PYGZgt{}}\PYG{n}{dato}\PYG{o}{\PYGZlt{}\PYGZlt{}}\PYG{l+s}{\PYGZdq{}\PYGZhy{}\PYGZgt{}\PYGZdq{}}\PYG{p}{;}
+    \PYG{n}{temporal} \PYG{o}{=} \PYG{n}{temporal}\PYG{o}{\PYGZhy{}\PYGZgt{}}\PYG{n}{m\PYGZus{}psiguiente}\PYG{p}{;}
+  \PYG{p}{\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

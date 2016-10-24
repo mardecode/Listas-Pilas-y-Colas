@@ -1,0 +1,13 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{template}\PYG{o}{\PYGZlt{}}\PYG{k}{class} \PYG{n+nc}{T}\PYG{o}{\PYGZgt{}}
+\PYG{k+kt}{void} \PYG{n}{cola}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}::}\PYG{n}{push}\PYG{p}{(}\PYG{n}{T} \PYG{n}{d}\PYG{p}{)\PYGZob{}}
+  \PYG{n}{Nodo}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}} \PYG{o}{*} \PYG{n}{nuevo} \PYG{o}{=} \PYG{k}{new} \PYG{n}{Nodo}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}}\PYG{p}{(}\PYG{n}{d}\PYG{p}{);}
+  \PYG{k}{if} \PYG{p}{(}\PYG{n}{m\PYGZus{}phead} \PYG{o}{==} \PYG{l+m+mi}{0}\PYG{p}{)\PYGZob{}}
+    \PYG{n}{m\PYGZus{}phead} \PYG{o}{=} \PYG{n}{m\PYGZus{}plast} \PYG{o}{=} \PYG{n}{nuevo}\PYG{p}{;}
+  \PYG{p}{\PYGZcb{}}
+  \PYG{k}{else}\PYG{p}{\PYGZob{}}
+    \PYG{n}{m\PYGZus{}plast}\PYG{o}{\PYGZhy{}\PYGZgt{}}\PYG{n}{m\PYGZus{}psiguiente} \PYG{o}{=} \PYG{n}{nuevo}\PYG{p}{;}
+    \PYG{n}{m\PYGZus{}plast} \PYG{o}{=} \PYG{n}{nuevo}\PYG{p}{;}
+  \PYG{p}{\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{template}\PYG{o}{\PYGZlt{}}\PYG{k}{class} \PYG{n+nc}{T}\PYG{o}{\PYGZgt{}}
+\PYG{n}{T} \PYG{n}{cola}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}::}\PYG{n}{frente}\PYG{p}{()\PYGZob{}}
+  \PYG{n}{T} \PYG{n}{dato} \PYG{o}{=}\PYG{n}{m\PYGZus{}phead}\PYG{o}{\PYGZhy{}\PYGZgt{}}\PYG{n}{dato}\PYG{p}{;}
+  \PYG{k}{return} \PYG{n}{dato}\PYG{p}{;}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

@@ -1,11 +1,12 @@
-\frametitle{Print}
+\frametitle{Implementacion print}
 \begin{minted}[linenos=true]{c++}
 template <class T>
-void Pila<T>::print(ostream & os){
-	Nodo<T> * temp = m_phead;
-	while(temp){
-		os<<temp->m_dato<<"->";
-		temp = temp->m_psiguiente;
-	}
+void cola<T>::imprimir(){
+  Nodo<T> * temporal = m_phead;
+  if(!m_phead) return;
+  while(temporal){
+    cout<<temporal->dato<<"->";
+    temporal = temporal->m_psiguiente;
+  }
 }
 \end{minted}

@@ -1,0 +1,15 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+cp}{\PYGZsh{}include} \PYG{c+cpf}{\PYGZdq{}Nodo.h\PYGZdq{}}
+\PYG{k}{template}\PYG{o}{\PYGZlt{}}\PYG{k}{class} \PYG{n+nc}{T}\PYG{o}{\PYGZgt{}}
+\PYG{k}{class} \PYG{n+nc}{cola}
+\PYG{p}{\PYGZob{}}\PYG{k}{public}\PYG{o}{:}
+  \PYG{n}{Nodo}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}} \PYG{o}{*} \PYG{n}{m\PYGZus{}phead}\PYG{p}{;}
+  \PYG{n}{Nodo}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}} \PYG{o}{*} \PYG{n}{m\PYGZus{}plast}\PYG{p}{;}
+\PYG{k}{public}\PYG{o}{:}
+  \PYG{n}{cola}\PYG{p}{()\PYGZob{}}
+    \PYG{n}{m\PYGZus{}phead} \PYG{o}{=} \PYG{n}{m\PYGZus{}plast} \PYG{o}{=} \PYG{l+m+mi}{0}\PYG{p}{;\PYGZcb{};}
+  \PYG{k+kt}{void} \PYG{n+nf}{push}\PYG{p}{(}\PYG{n}{T} \PYG{n}{d}\PYG{p}{);} \PYG{c+c1}{// Encolar}
+  \PYG{n}{T} \PYG{n+nf}{pop}\PYG{p}{();} \PYG{c+c1}{//desencolar}
+  \PYG{n}{T} \PYG{n+nf}{frente}\PYG{p}{();} \PYG{c+c1}{//top}
+  \PYG{k+kt}{void} \PYG{n+nf}{imprimir}\PYG{p}{();\PYGZcb{};}
+\end{Verbatim}

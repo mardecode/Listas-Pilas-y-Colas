@@ -1,0 +1,13 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{template}\PYG{o}{\PYGZlt{}}\PYG{k}{class} \PYG{n+nc}{T}\PYG{o}{\PYGZgt{}}
+\PYG{k}{class} \PYG{n+nc}{Nodo}
+\PYG{p}{\PYGZob{}}
+\PYG{k}{public}\PYG{o}{:}
+  \PYG{n}{Nodo}\PYG{p}{(}\PYG{n}{T} \PYG{n}{d}\PYG{p}{)\PYGZob{}}
+    \PYG{n}{dato} \PYG{o}{=} \PYG{n}{d} \PYG{p}{;}
+    \PYG{n}{m\PYGZus{}psiguiente} \PYG{o}{=} \PYG{l+m+mi}{0}\PYG{p}{;}
+  \PYG{p}{\PYGZcb{};}
+  \PYG{n}{T}           \PYG{n}{dato}\PYG{p}{;}
+  \PYG{n}{Nodo}\PYG{o}{\PYGZlt{}}\PYG{n}{T}\PYG{o}{\PYGZgt{}} \PYG{o}{*}   \PYG{n}{m\PYGZus{}psiguiente}\PYG{p}{;}
+\PYG{p}{\PYGZcb{};}
+\end{Verbatim}
